@@ -1,0 +1,66 @@
+{
+  "company": "Amazon.com, Inc.",
+  "ticker": "AMZN",
+  "year": 1997,
+  "ceo": {
+    "name": "Jeff Bezos",
+    "role": "Founder, President & CEO"
+  },
+  "board": [
+    {
+      "name": "Jeff Bezos",
+      "role": "Founder, President & CEO"
+    },
+    {
+      "name": "Tom Alberg",
+      "role": "Director"
+    },
+    {
+      "name": "John Doerr",
+      "role": "Director (Kleiner Perkins)"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Jeff Bezos",
+      "percentage": 41,
+      "color": "#E8734A",
+      "shareValue": 226000000
+    },
+    {
+      "name": "Kleiner Perkins",
+      "percentage": 13,
+      "color": "#4F86C6",
+      "shareValue": 72000000
+    },
+    {
+      "name": "Public Float",
+      "percentage": 46,
+      "color": "#B0B0B0",
+      "shareValue": 254000000
+    }
+  ],
+  "valuation": 550000000,
+  "stockUnitValue": 18.0,
+  "notes": "Amazon IPO'd on Nasdaq May 15, 1997 at $18/share, raising $54 million.",
+  "moatScore": 3,
+  "moatLabel": "Emerging",
+  "moatNote": "First-mover advantage in online bookselling and early logistics investment, but still a single-category retailer facing well-funded competitors.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 55,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 30,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 15,
+      "color": "#EDC948"
+    }
+  ]
+}

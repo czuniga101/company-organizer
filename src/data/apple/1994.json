@@ -1,0 +1,92 @@
+{
+  "company": "Apple Computer, Inc.",
+  "year": 1994,
+  "ceo": {
+    "name": "Michael H. Spindler",
+    "role": "President & CEO"
+  },
+  "board": [
+    {
+      "name": "A.C. Markkula Jr.",
+      "role": "Chairman"
+    },
+    {
+      "name": "Michael H. Spindler",
+      "role": "President & CEO"
+    },
+    {
+      "name": "Peter O. Crisp",
+      "role": "Director"
+    },
+    {
+      "name": "Bernard Goldstein",
+      "role": "Director"
+    },
+    {
+      "name": "Arthur Rock",
+      "role": "Director"
+    },
+    {
+      "name": "B. J\u00fcrgen Hintz",
+      "role": "Director"
+    },
+    {
+      "name": "Gareth C.C. Chang",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Institutional Investors",
+      "percentage": 64,
+      "color": "#4E79A7",
+      "shareValue": 3520000000
+    },
+    {
+      "name": "Public Shareholders",
+      "percentage": 28,
+      "color": "#F28E2B",
+      "shareValue": 1540000000
+    },
+    {
+      "name": "Insiders & Management",
+      "percentage": 5,
+      "color": "#59A14F",
+      "shareValue": 275000000
+    },
+    {
+      "name": "Employee Stock Plans",
+      "percentage": 3,
+      "color": "#E15759",
+      "shareValue": 165000000
+    }
+  ],
+  "valuation": 5500000000,
+  "stockUnitValue": 39,
+  "notes": "Markkula returned as Chairman during this period. Valuation/stock price approximated from 1994 trading range (pre-split). Ownership distribution estimated.",
+  "moatScore": 2,
+  "moatLabel": "Declining",
+  "moatNote": "PowerPC transition underway but Windows ecosystem dominates.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 40,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 10,
+      "color": "#59A14F"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 20,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 30,
+      "color": "#EDC948"
+    }
+  ]
+}

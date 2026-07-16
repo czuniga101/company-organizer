@@ -1,0 +1,99 @@
+{
+  "company": "Apple Computer, Inc.",
+  "year": 1983,
+  "ceo": {
+    "name": "John Sculley",
+    "role": "President & Chief Executive Officer (from April 1983)"
+  },
+  "board": [
+    {
+      "name": "Steven P. Jobs",
+      "role": "Chairman of the Board"
+    },
+    {
+      "name": "John Sculley",
+      "role": "President & CEO, Director"
+    },
+    {
+      "name": "A.C. (Mike) Markkula Jr.",
+      "role": "Vice Chairman, Director"
+    },
+    {
+      "name": "Arthur Rock",
+      "role": "Director"
+    },
+    {
+      "name": "Henry E. Singleton",
+      "role": "Director"
+    },
+    {
+      "name": "Peter O. Crisp",
+      "role": "Director"
+    },
+    {
+      "name": "Philip S. Schlein",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Steven P. Jobs",
+      "percentage": 11,
+      "color": "#4E79A7",
+      "shareValue": 198000000
+    },
+    {
+      "name": "A.C. (Mike) Markkula Jr.",
+      "percentage": 9,
+      "color": "#F28E2B",
+      "shareValue": 162000000
+    },
+    {
+      "name": "Arthur Rock",
+      "percentage": 4,
+      "color": "#E15759",
+      "shareValue": 72000000
+    },
+    {
+      "name": "John Sculley",
+      "percentage": 1,
+      "color": "#B07AA1",
+      "shareValue": 18000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 33,
+      "color": "#76B7B2",
+      "shareValue": 594000000
+    },
+    {
+      "name": "Public Shareholders",
+      "percentage": 42,
+      "color": "#59A14F",
+      "shareValue": 756000000
+    }
+  ],
+  "valuation": 1800000000,
+  "stockUnitValue": 17,
+  "notes": "Estimated. John Sculley joined as President/CEO in April 1983 (recruited from PepsiCo); Jobs remained Chairman. Ownership and valuation are approximations reflecting the Lisa-era recovery, not exact proxy data.",
+  "moatScore": 3,
+  "moatLabel": "Eroding",
+  "moatNote": "Lisa underperforms; IBM PC compatibility becomes industry standard.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 40,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 30,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 30,
+      "color": "#EDC948"
+    }
+  ]
+}

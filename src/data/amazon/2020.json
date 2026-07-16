@@ -1,0 +1,70 @@
+{
+  "company": "Amazon.com, Inc.",
+  "ticker": "AMZN",
+  "year": 2020,
+  "ceo": {
+    "name": "Jeff Bezos",
+    "role": "Founder, President & CEO"
+  },
+  "board": [
+    {
+      "name": "Jeff Bezos",
+      "role": "Founder, President & CEO"
+    },
+    {
+      "name": "Jamie Gorelick",
+      "role": "Director"
+    },
+    {
+      "name": "Indra Nooyi",
+      "role": "Director"
+    },
+    {
+      "name": "Daniel Huttenlocher",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Jeff Bezos",
+      "percentage": 11,
+      "color": "#E8734A",
+      "shareValue": 176000000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 62,
+      "color": "#4F86C6",
+      "shareValue": 992000000000
+    },
+    {
+      "name": "Public Float",
+      "percentage": 27,
+      "color": "#B0B0B0",
+      "shareValue": 432000000000
+    }
+  ],
+  "valuation": 1600000000000,
+  "stockUnitValue": 3200.0,
+  "notes": "Pandemic-driven e-commerce demand pushed Amazon's market cap back above $1 trillion and toward $1.6T, with record Q4 2019/2020 earnings.",
+  "moatScore": 9,
+  "moatLabel": "Dominant",
+  "moatNote": "Pandemic-driven e-commerce and cloud demand cemented Amazon's logistics and AWS infrastructure as close to indispensable for a huge share of digital commerce.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 30,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 60,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 10,
+      "color": "#EDC948"
+    }
+  ]
+}

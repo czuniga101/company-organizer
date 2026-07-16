@@ -1,0 +1,105 @@
+{
+  "company": "Apple Inc.",
+  "year": 2010,
+  "ceo": {
+    "name": "Steve Jobs",
+    "role": "Chief Executive Officer"
+  },
+  "board": [
+    {
+      "name": "Steve Jobs",
+      "role": "CEO & Director"
+    },
+    {
+      "name": "William V. Campbell",
+      "role": "Director"
+    },
+    {
+      "name": "Millard S. Drexler",
+      "role": "Director"
+    },
+    {
+      "name": "Albert Gore Jr.",
+      "role": "Director"
+    },
+    {
+      "name": "Andrea Jung",
+      "role": "Director"
+    },
+    {
+      "name": "Arthur D. Levinson",
+      "role": "Director"
+    },
+    {
+      "name": "Ronald D. Sugar",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Steve Jobs",
+      "percentage": 0.52,
+      "color": "#4E79A7",
+      "shareValue": 1534000000
+    },
+    {
+      "name": "Fidelity (FMR)",
+      "percentage": 4.8,
+      "color": "#F28E2B",
+      "shareValue": 14160000000
+    },
+    {
+      "name": "BlackRock",
+      "percentage": 5,
+      "color": "#E15759",
+      "shareValue": 14750000000
+    },
+    {
+      "name": "State Street",
+      "percentage": 3.9,
+      "color": "#76B7B2",
+      "shareValue": 11505000000
+    },
+    {
+      "name": "Vanguard Group",
+      "percentage": 3.6,
+      "color": "#59A14F",
+      "shareValue": 10620000000
+    },
+    {
+      "name": "Other Institutions",
+      "percentage": 47.18,
+      "color": "#EDC948",
+      "shareValue": 139181000000
+    },
+    {
+      "name": "Public Shareholders",
+      "percentage": 35,
+      "color": "#B07AA1",
+      "shareValue": 103250000000
+    }
+  ],
+  "valuation": 295000000000,
+  "stockUnitValue": 322.56,
+  "notes": "Estimated. Jerome York died in March 2010; Ronald Sugar joined the board in Nov 2010. Year-end price ~$322 nominal (pre-2014 7:1 and 2020 4:1 splits); market cap ~$295B. Ownership splits are illustrative institutional estimates.",
+  "moatScore": 9,
+  "moatLabel": "Dominant",
+  "moatNote": "iPad creates a new category; ecosystem (hardware+software+services) very strong.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 20,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 35,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 45,
+      "color": "#EDC948"
+    }
+  ]
+}

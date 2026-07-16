@@ -1,0 +1,77 @@
+{
+  "company": "Space Exploration Technologies Corp.",
+  "year": 2022,
+  "ceo": {
+    "name": "Elon Musk",
+    "role": "CEO / CTO"
+  },
+  "board": [
+    {
+      "name": "Elon Musk",
+      "role": "CEO"
+    },
+    {
+      "name": "Gwynne Shotwell",
+      "role": "President & COO"
+    },
+    {
+      "name": "Kimbal Musk",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Elon Musk",
+      "percentage": 44,
+      "color": "#E8734A",
+      "shareValue": 55880000000
+    },
+    {
+      "name": "Founders Fund",
+      "percentage": 10,
+      "color": "#4F86C6",
+      "shareValue": 12700000000
+    },
+    {
+      "name": "Google (Alphabet)",
+      "percentage": 7,
+      "color": "#6ABF69",
+      "shareValue": 8890000000
+    },
+    {
+      "name": "Fidelity",
+      "percentage": 9,
+      "color": "#F5C842",
+      "shareValue": 11430000000
+    },
+    {
+      "name": "Other Investors",
+      "percentage": 30,
+      "color": "#B0B0B0",
+      "shareValue": 38100000000
+    }
+  ],
+  "valuation": 127000000000,
+  "stockUnitValue": null,
+  "notes": "A $1.68B round led by Mirae Asset valued SpaceX at $127B in June 2022. SpaceX flew a record-breaking 61 launches in the year, dominating global orbital launch volume.",
+  "moatScore": 9,
+  "moatLabel": "Dominant",
+  "moatNote": "61 launches in a single year \u2014 more than every national space program combined \u2014 an almost insurmountable scale/cost moat.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 25,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 65,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 10,
+      "color": "#EDC948"
+    }
+  ]
+}

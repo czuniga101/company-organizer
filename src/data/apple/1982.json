@@ -1,0 +1,89 @@
+{
+  "company": "Apple Computer, Inc.",
+  "year": 1982,
+  "ceo": {
+    "name": "A.C. (Mike) Markkula Jr.",
+    "role": "President & Chief Executive Officer"
+  },
+  "board": [
+    {
+      "name": "Steven P. Jobs",
+      "role": "Chairman of the Board"
+    },
+    {
+      "name": "A.C. (Mike) Markkula Jr.",
+      "role": "President & CEO, Director"
+    },
+    {
+      "name": "Arthur Rock",
+      "role": "Director"
+    },
+    {
+      "name": "Henry E. Singleton",
+      "role": "Director"
+    },
+    {
+      "name": "Peter O. Crisp",
+      "role": "Director"
+    },
+    {
+      "name": "Philip S. Schlein",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Steven P. Jobs",
+      "percentage": 11,
+      "color": "#4E79A7",
+      "shareValue": 143000000
+    },
+    {
+      "name": "A.C. (Mike) Markkula Jr.",
+      "percentage": 10,
+      "color": "#F28E2B",
+      "shareValue": 130000000
+    },
+    {
+      "name": "Arthur Rock",
+      "percentage": 5,
+      "color": "#E15759",
+      "shareValue": 65000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 32,
+      "color": "#76B7B2",
+      "shareValue": 416000000
+    },
+    {
+      "name": "Public Shareholders",
+      "percentage": 42,
+      "color": "#59A14F",
+      "shareValue": 546000000
+    }
+  ],
+  "valuation": 1300000000,
+  "stockUnitValue": 11,
+  "notes": "Estimated. Valuation and stock price reflect a softer 1982 market; ownership figures are approximations of insider vs. institutional/public splits, not drawn from a specific filing.",
+  "moatScore": 3,
+  "moatLabel": "Eroding",
+  "moatNote": "IBM PC and clones erode Apple's early personal computer dominance.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 35,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 30,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 35,
+      "color": "#EDC948"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "company": "Amazon.com, Inc.",
+  "ticker": "AMZN",
+  "year": 2026,
+  "ceo": {
+    "name": "Andy Jassy",
+    "role": "President & CEO"
+  },
+  "board": [
+    {
+      "name": "Jeff Bezos",
+      "role": "Executive Chair"
+    },
+    {
+      "name": "Andy Jassy",
+      "role": "President & CEO"
+    },
+    {
+      "name": "Jamie Gorelick",
+      "role": "Director"
+    },
+    {
+      "name": "Indra Nooyi",
+      "role": "Director"
+    },
+    {
+      "name": "Daniel Huttenlocher",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Jeff Bezos",
+      "percentage": 8.8,
+      "color": "#E8734A",
+      "shareValue": 229570000000
+    },
+    {
+      "name": "BlackRock",
+      "percentage": 6.8,
+      "color": "#4F86C6",
+      "shareValue": 177410000000
+    },
+    {
+      "name": "Vanguard Capital Management",
+      "percentage": 6.8,
+      "color": "#6ABF69",
+      "shareValue": 177410000000
+    },
+    {
+      "name": "State Street",
+      "percentage": 3.6,
+      "color": "#F5C842",
+      "shareValue": 93940000000
+    },
+    {
+      "name": "Other Institutions / Public Float",
+      "percentage": 74.0,
+      "color": "#B0B0B0",
+      "shareValue": 1930670000000
+    }
+  ],
+  "valuation": 2609000000000,
+  "stockUnitValue": 248.0,
+  "notes": "Per Amazon's 2026 proxy statement, Jeff Bezos holds 950 million shares (8.8%) valued at roughly $255B, still the largest individual shareholder; Amazon's market cap stood at about $2.61T in mid-2026.",
+  "moatScore": 9,
+  "moatLabel": "Dominant",
+  "moatNote": "Amazon's combined AWS cloud, advertising, and logistics businesses continue to reinforce each other, sustaining a broad and durable competitive position.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 27,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 53,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 10,
+      "color": "#EDC948"
+    },
+    {
+      "name": "Share Buybacks",
+      "percentage": 10,
+      "color": "#F28E2B"
+    }
+  ]
+}

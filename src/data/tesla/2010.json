@@ -1,0 +1,89 @@
+{
+  "company": "Tesla Motors, Inc.",
+  "year": 2010,
+  "ceo": {
+    "name": "Elon Musk",
+    "role": "CEO"
+  },
+  "board": [
+    {
+      "name": "Elon Musk",
+      "role": "CEO & Chairman"
+    },
+    {
+      "name": "Antonio Gracias",
+      "role": "Director"
+    },
+    {
+      "name": "Ira Ehrenpreis",
+      "role": "Director"
+    },
+    {
+      "name": "Brad Buss",
+      "role": "Director"
+    },
+    {
+      "name": "Robyn Denholm",
+      "role": "Director"
+    },
+    {
+      "name": "Stephen Jurvetson",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Elon Musk",
+      "percentage": 28,
+      "color": "#E8734A",
+      "shareValue": 616000000
+    },
+    {
+      "name": "Public / Retail Shareholders",
+      "percentage": 12,
+      "color": "#4F86C6",
+      "shareValue": 264000000
+    },
+    {
+      "name": "Daimler AG",
+      "percentage": 8,
+      "color": "#6ABF69",
+      "shareValue": 176000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 38,
+      "color": "#F5C842",
+      "shareValue": 836000000
+    },
+    {
+      "name": "Employees / Other",
+      "percentage": 14,
+      "color": "#B0B0B0",
+      "shareValue": 308000000
+    }
+  ],
+  "valuation": 2200000000,
+  "stockUnitValue": 17.0,
+  "notes": "IPO on June 29, 2010 at $17/share; raised ~$226M. First US auto manufacturer to go public since Ford in 1956.",
+  "moatScore": 4,
+  "moatLabel": "Building",
+  "moatNote": "IPO established public market; Model S previewed; Gigafactory concept forming.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 40,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 35,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 25,
+      "color": "#EDC948"
+    }
+  ]
+}

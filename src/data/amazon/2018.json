@@ -1,0 +1,70 @@
+{
+  "company": "Amazon.com, Inc.",
+  "ticker": "AMZN",
+  "year": 2018,
+  "ceo": {
+    "name": "Jeff Bezos",
+    "role": "Founder, President & CEO"
+  },
+  "board": [
+    {
+      "name": "Jeff Bezos",
+      "role": "Founder, President & CEO"
+    },
+    {
+      "name": "Tom Alberg",
+      "role": "Director"
+    },
+    {
+      "name": "Jamie Gorelick",
+      "role": "Director"
+    },
+    {
+      "name": "Indra Nooyi",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Jeff Bezos",
+      "percentage": 16,
+      "color": "#E8734A",
+      "shareValue": 128000000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 59,
+      "color": "#4F86C6",
+      "shareValue": 472000000000
+    },
+    {
+      "name": "Public Float",
+      "percentage": 25,
+      "color": "#B0B0B0",
+      "shareValue": 200000000000
+    }
+  ],
+  "valuation": 800000000000,
+  "stockUnitValue": 1600.0,
+  "notes": "Amazon stock briefly crossed a $1 trillion market cap in September 2018, becoming the second US company (after Apple) to reach that milestone, driven by AWS and advertising growth.",
+  "moatScore": 8,
+  "moatLabel": "Strong",
+  "moatNote": "AWS's cloud infrastructure leadership plus Prime's massive membership base and logistics scale made Amazon's combined moat very difficult to replicate.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 35,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 50,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 15,
+      "color": "#EDC948"
+    }
+  ]
+}

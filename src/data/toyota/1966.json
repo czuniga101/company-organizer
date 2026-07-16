@@ -1,0 +1,66 @@
+{
+  "company": "Toyota Motor Co., Ltd.",
+  "year": 1966,
+  "ceo": {
+    "name": "Fukio Nakagawa",
+    "role": "President"
+  },
+  "board": [
+    {
+      "name": "Fukio Nakagawa",
+      "role": "President"
+    },
+    {
+      "name": "Eiji Toyoda",
+      "role": "Executive Vice President"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Toyoda Family / Group Companies",
+      "percentage": 48,
+      "color": "#E8734A",
+      "shareValue": 96000000
+    },
+    {
+      "name": "Banks / Institutional",
+      "percentage": 42,
+      "color": "#4F86C6",
+      "shareValue": 84000000
+    },
+    {
+      "name": "Other",
+      "percentage": 10,
+      "color": "#B0B0B0",
+      "shareValue": 20000000
+    }
+  ],
+  "valuation": 200000000,
+  "stockUnitValue": null,
+  "notes": "Toyota Corolla launched November 1966, becoming the best-selling car nameplate in automotive history over subsequent decades. Toyota Production System principles (kanban, JIT) were maturing under Taiichi Ohno.",
+  "moatScore": 5,
+  "moatLabel": "Strong",
+  "moatNote": "Corolla established Toyota as a credible mass-market global brand; Toyota Production System maturing into a structural cost advantage.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 20,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 55,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 15,
+      "color": "#EDC948"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 10,
+      "color": "#59A14F"
+    }
+  ]
+}

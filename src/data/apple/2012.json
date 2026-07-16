@@ -1,0 +1,110 @@
+{
+  "company": "Apple Inc.",
+  "year": 2012,
+  "ceo": {
+    "name": "Tim Cook",
+    "role": "Chief Executive Officer"
+  },
+  "board": [
+    {
+      "name": "Arthur D. Levinson",
+      "role": "Chairman"
+    },
+    {
+      "name": "Tim Cook",
+      "role": "Director & CEO"
+    },
+    {
+      "name": "Al Gore",
+      "role": "Director"
+    },
+    {
+      "name": "Robert A. Iger",
+      "role": "Director"
+    },
+    {
+      "name": "Andrea Jung",
+      "role": "Director"
+    },
+    {
+      "name": "Ronald D. Sugar",
+      "role": "Director"
+    },
+    {
+      "name": "Millard S. Drexler",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Public Shareholders",
+      "percentage": 65,
+      "color": "#4E79A7",
+      "shareValue": 325000000000
+    },
+    {
+      "name": "The Vanguard Group",
+      "percentage": 5,
+      "color": "#F28E2B",
+      "shareValue": 25000000000
+    },
+    {
+      "name": "BlackRock",
+      "percentage": 5,
+      "color": "#59A14F",
+      "shareValue": 25000000000
+    },
+    {
+      "name": "State Street Global Advisors",
+      "percentage": 4,
+      "color": "#E15759",
+      "shareValue": 20000000000
+    },
+    {
+      "name": "FMR (Fidelity)",
+      "percentage": 5,
+      "color": "#76B7B2",
+      "shareValue": 25000000000
+    },
+    {
+      "name": "Other Institutional Investors",
+      "percentage": 14,
+      "color": "#B07AA1",
+      "shareValue": 70000000000
+    },
+    {
+      "name": "Insiders & Executives",
+      "percentage": 2,
+      "color": "#FF9DA7",
+      "shareValue": 10000000000
+    }
+  ],
+  "valuation": 500000000000,
+  "stockUnitValue": 532,
+  "notes": "Stock price approximate year-end 2012 close (~$532, pre-split); market cap ~$500B (Apple briefly crossed $600B in 2012). Ownership percentages estimated from institutional holding norms; exact figures vary by filing date.",
+  "moatScore": 9,
+  "moatLabel": "Dominant",
+  "moatNote": "Peak smartphone/tablet share; supply-chain scale advantage immense.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 15,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 20,
+      "color": "#59A14F"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 30,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 35,
+      "color": "#EDC948"
+    }
+  ]
+}

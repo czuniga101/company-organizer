@@ -1,0 +1,71 @@
+{
+  "company": "Apple Computer, Inc.",
+  "year": 1977,
+  "ceo": {
+    "name": "Michael Scott",
+    "role": "President & CEO"
+  },
+  "board": [
+    {
+      "name": "Mike Markkula",
+      "role": "Chairman"
+    },
+    {
+      "name": "Steve Jobs",
+      "role": "Co-founder / Vice President"
+    },
+    {
+      "name": "Michael Scott",
+      "role": "President & CEO"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Steve Jobs",
+      "percentage": 30,
+      "color": "#4E79A7",
+      "shareValue": 900000
+    },
+    {
+      "name": "Steve Wozniak",
+      "percentage": 30,
+      "color": "#F28E2B",
+      "shareValue": 900000
+    },
+    {
+      "name": "Mike Markkula",
+      "percentage": 30,
+      "color": "#E15759",
+      "shareValue": 900000
+    },
+    {
+      "name": "Michael Scott",
+      "percentage": 10,
+      "color": "#76B7B2",
+      "shareValue": 300000
+    }
+  ],
+  "valuation": 3000000,
+  "stockUnitValue": 0.1,
+  "notes": "Incorporated January 3, 1977. Mike Markkula invested ~$250k and took roughly one-third; founders Jobs and Wozniak retained roughly a third each, with the balance for early management. Percentages, valuation and share price are historical estimates.",
+  "moatScore": 2,
+  "moatLabel": "Pre-Moat",
+  "moatNote": "Apple II launch; differentiated but easily copied early PC design.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 45,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 20,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 35,
+      "color": "#EDC948"
+    }
+  ]
+}

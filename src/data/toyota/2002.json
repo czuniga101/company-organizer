@@ -1,0 +1,72 @@
+{
+  "company": "Toyota Motor Corporation",
+  "year": 2002,
+  "ceo": {
+    "name": "Fujio Cho",
+    "role": "President"
+  },
+  "board": [
+    {
+      "name": "Fujio Cho",
+      "role": "President"
+    },
+    {
+      "name": "Hiroshi Okuda",
+      "role": "Chairman"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Toyoda Family / Group Companies",
+      "percentage": 28,
+      "color": "#E8734A",
+      "shareValue": 47600000000
+    },
+    {
+      "name": "Foreign Institutional Investors",
+      "percentage": 25,
+      "color": "#4F86C6",
+      "shareValue": 42500000000
+    },
+    {
+      "name": "Domestic Institutional / Banks",
+      "percentage": 37,
+      "color": "#6ABF69",
+      "shareValue": 62900000000
+    },
+    {
+      "name": "Other",
+      "percentage": 10,
+      "color": "#B0B0B0",
+      "shareValue": 17000000000
+    }
+  ],
+  "valuation": 170000000000,
+  "stockUnitValue": null,
+  "notes": "Toyota entered Formula 1 racing in 2002 as part of a global brand-building push. Worldwide Prius and hybrid sales accelerating; first SEC-registered 20-F annual report filed in 2003 for FY2002 ahead of broader US listing presence.",
+  "moatScore": 8,
+  "moatLabel": "Dominant",
+  "moatNote": "Global scale, TPS efficiency, and hybrid technology leadership combined into one of the strongest moats in autos.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 22,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 45,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 13,
+      "color": "#EDC948"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 20,
+      "color": "#59A14F"
+    }
+  ]
+}

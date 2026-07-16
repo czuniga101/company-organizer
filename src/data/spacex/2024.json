@@ -1,0 +1,73 @@
+{
+  "company": "Space Exploration Technologies Corp.",
+  "year": 2024,
+  "ceo": {
+    "name": "Elon Musk",
+    "role": "CEO / CTO"
+  },
+  "board": [
+    {
+      "name": "Elon Musk",
+      "role": "CEO"
+    },
+    {
+      "name": "Gwynne Shotwell",
+      "role": "President & COO"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Elon Musk",
+      "percentage": 42,
+      "color": "#E8734A",
+      "shareValue": 147000000000
+    },
+    {
+      "name": "Founders Fund",
+      "percentage": 9,
+      "color": "#4F86C6",
+      "shareValue": 31500000000
+    },
+    {
+      "name": "Google (Alphabet)",
+      "percentage": 7,
+      "color": "#6ABF69",
+      "shareValue": 24500000000
+    },
+    {
+      "name": "Fidelity",
+      "percentage": 9,
+      "color": "#F5C842",
+      "shareValue": 31500000000
+    },
+    {
+      "name": "Other Investors",
+      "percentage": 33,
+      "color": "#B0B0B0",
+      "shareValue": 115500000000
+    }
+  ],
+  "valuation": 350000000000,
+  "stockUnitValue": 185.0,
+  "notes": "October 2024: Starship Flight 5 achieved the first-ever catch of the Super Heavy booster using the launch tower's \"chopsticks\" arms. A $1.25B secondary share sale in December 2024 valued SpaceX at $350B at $185/share, making it the world's most valuable private company.",
+  "moatScore": 9,
+  "moatLabel": "Dominant",
+  "moatNote": "Super Heavy booster catch was a genuine engineering breakthrough competitors are years from replicating; record launch cadence continued.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 25,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 60,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 15,
+      "color": "#EDC948"
+    }
+  ]
+}

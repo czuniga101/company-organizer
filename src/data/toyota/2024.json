@@ -1,0 +1,77 @@
+{
+  "company": "Toyota Motor Corporation",
+  "year": 2024,
+  "ceo": {
+    "name": "Koji Sato",
+    "role": "President"
+  },
+  "board": [
+    {
+      "name": "Koji Sato",
+      "role": "President"
+    },
+    {
+      "name": "Akio Toyoda",
+      "role": "Chairman"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Toyoda Family / Group Companies",
+      "percentage": 18,
+      "color": "#E8734A",
+      "shareValue": 41040000000
+    },
+    {
+      "name": "Foreign Institutional Investors",
+      "percentage": 32,
+      "color": "#4F86C6",
+      "shareValue": 72960000000
+    },
+    {
+      "name": "Domestic Institutional / Banks",
+      "percentage": 40,
+      "color": "#6ABF69",
+      "shareValue": 91200000000
+    },
+    {
+      "name": "Other",
+      "percentage": 10,
+      "color": "#B0B0B0",
+      "shareValue": 22800000000
+    }
+  ],
+  "valuation": 228000000000,
+  "stockUnitValue": null,
+  "notes": "Estimated figures; Toyota Group faced a certification-testing scandal in 2024 involving improper safety testing at several subsidiaries (Daihatsu, Toyota Industries, Hino), prompting production halts and an apology from Akio Toyoda.",
+  "moatScore": 6,
+  "moatLabel": "Tested",
+  "moatNote": "Certification testing scandal across Toyota Group subsidiaries (Daihatsu, Hino, Toyota Industries) damaged the trust/reliability moat.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 18,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 42,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 5,
+      "color": "#EDC948"
+    },
+    {
+      "name": "Share Buybacks",
+      "percentage": 10,
+      "color": "#F28E2B"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 25,
+      "color": "#59A14F"
+    }
+  ]
+}

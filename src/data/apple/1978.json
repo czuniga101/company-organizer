@@ -1,0 +1,75 @@
+{
+  "company": "Apple Computer, Inc.",
+  "year": 1978,
+  "ceo": {
+    "name": "Michael Scott",
+    "role": "President & CEO"
+  },
+  "board": [
+    {
+      "name": "Mike Markkula",
+      "role": "Chairman"
+    },
+    {
+      "name": "Steve Jobs",
+      "role": "Co-founder / Vice President"
+    },
+    {
+      "name": "Michael Scott",
+      "role": "President & CEO"
+    },
+    {
+      "name": "Arthur Rock",
+      "role": "Director / Investor"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Steve Jobs",
+      "percentage": 32,
+      "color": "#4E79A7",
+      "shareValue": 8000000
+    },
+    {
+      "name": "Steve Wozniak",
+      "percentage": 30,
+      "color": "#F28E2B",
+      "shareValue": 7500000
+    },
+    {
+      "name": "Mike Markkula",
+      "percentage": 28,
+      "color": "#E15759",
+      "shareValue": 7000000
+    },
+    {
+      "name": "Michael Scott",
+      "percentage": 10,
+      "color": "#76B7B2",
+      "shareValue": 2500000
+    }
+  ],
+  "valuation": 25000000,
+  "stockUnitValue": 0.5,
+  "notes": "Apple II sales surged in 1978. Ownership still concentrated among founders and Markkula. Valuation and per-share figures are estimates ahead of formal venture rounds.",
+  "moatScore": 3,
+  "moatLabel": "Emerging",
+  "moatNote": "Apple II gaining traction; VisiCalc not yet released.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 40,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 25,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 35,
+      "color": "#EDC948"
+    }
+  ]
+}

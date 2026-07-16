@@ -1,0 +1,95 @@
+{
+  "company": "Apple Computer, Inc.",
+  "year": 2002,
+  "ceo": {
+    "name": "Steve Jobs",
+    "role": "Chief Executive Officer"
+  },
+  "board": [
+    {
+      "name": "Steve Jobs",
+      "role": "CEO & Director"
+    },
+    {
+      "name": "William V. Campbell",
+      "role": "Director"
+    },
+    {
+      "name": "Gareth C. G. Chang",
+      "role": "Director"
+    },
+    {
+      "name": "Millard S. Drexler",
+      "role": "Director"
+    },
+    {
+      "name": "Arthur D. Levinson",
+      "role": "Director"
+    },
+    {
+      "name": "Jerome B. York",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Steve Jobs",
+      "percentage": 0.5,
+      "color": "#4E79A7",
+      "shareValue": 25000000
+    },
+    {
+      "name": "Fidelity Investments (FMR)",
+      "percentage": 11,
+      "color": "#F28E2B",
+      "shareValue": 550000000
+    },
+    {
+      "name": "State Street Global Advisors",
+      "percentage": 5,
+      "color": "#59A14F",
+      "shareValue": 250000000
+    },
+    {
+      "name": "The Vanguard Group",
+      "percentage": 4,
+      "color": "#E15759",
+      "shareValue": 200000000
+    },
+    {
+      "name": "Other Institutional Investors",
+      "percentage": 39.5,
+      "color": "#B07AA1",
+      "shareValue": 1975000000
+    },
+    {
+      "name": "Public Shareholders",
+      "percentage": 40,
+      "color": "#76B7B2",
+      "shareValue": 2000000000
+    }
+  ],
+  "valuation": 5000000000,
+  "stockUnitValue": 14.33,
+  "notes": "Larry Ellison departed the board in 2002. Valuation reflects depressed FY2002 price (~$14.33/share). Ownership figures are estimates; Steve Jobs held only a nominal personal stake at this point (famously largely option-based).",
+  "moatScore": 5,
+  "moatLabel": "Building",
+  "moatNote": "Retail stores launch, reinforcing brand and direct customer relationship.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 35,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 25,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 40,
+      "color": "#EDC948"
+    }
+  ]
+}

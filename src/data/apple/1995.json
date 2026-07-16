@@ -1,0 +1,92 @@
+{
+  "company": "Apple Computer, Inc.",
+  "year": 1995,
+  "ceo": {
+    "name": "Michael H. Spindler",
+    "role": "President & CEO"
+  },
+  "board": [
+    {
+      "name": "A.C. Markkula Jr.",
+      "role": "Chairman"
+    },
+    {
+      "name": "Michael H. Spindler",
+      "role": "President & CEO"
+    },
+    {
+      "name": "Peter O. Crisp",
+      "role": "Director"
+    },
+    {
+      "name": "Bernard Goldstein",
+      "role": "Director"
+    },
+    {
+      "name": "Arthur Rock",
+      "role": "Director"
+    },
+    {
+      "name": "B. J\u00fcrgen Hintz",
+      "role": "Director"
+    },
+    {
+      "name": "Gareth C.C. Chang",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Institutional Investors",
+      "percentage": 65,
+      "color": "#4E79A7",
+      "shareValue": 3250000000
+    },
+    {
+      "name": "Public Shareholders",
+      "percentage": 27,
+      "color": "#F28E2B",
+      "shareValue": 1350000000
+    },
+    {
+      "name": "Insiders & Management",
+      "percentage": 5,
+      "color": "#59A14F",
+      "shareValue": 250000000
+    },
+    {
+      "name": "Employee Stock Plans",
+      "percentage": 3,
+      "color": "#E15759",
+      "shareValue": 150000000
+    }
+  ],
+  "valuation": 5000000000,
+  "stockUnitValue": 40,
+  "notes": "End of Spindler era (replaced by Gil Amelio in early 1996). Valuation/stock price approximated from 1995 trading range (pre-split). Ownership percentages estimated; precise institutional breakdown not itemized here.",
+  "moatScore": 2,
+  "moatLabel": "Declining",
+  "moatNote": "Windows 95 launch is a major blow to Mac's remaining differentiation.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 35,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 10,
+      "color": "#59A14F"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 25,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 30,
+      "color": "#EDC948"
+    }
+  ]
+}

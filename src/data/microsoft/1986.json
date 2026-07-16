@@ -1,0 +1,66 @@
+{
+  "company": "Microsoft Corporation",
+  "ticker": "MSFT",
+  "year": 1986,
+  "ceo": {
+    "name": "Bill Gates",
+    "role": "Co-Founder, President & CEO"
+  },
+  "board": [
+    {
+      "name": "Bill Gates",
+      "role": "Co-Founder, President & CEO"
+    },
+    {
+      "name": "Paul Allen",
+      "role": "Director"
+    },
+    {
+      "name": "Jon Shirley",
+      "role": "Director / President & COO"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Bill Gates",
+      "percentage": 45,
+      "color": "#E8734A",
+      "shareValue": 234000000
+    },
+    {
+      "name": "Paul Allen",
+      "percentage": 25,
+      "color": "#4F86C6",
+      "shareValue": 130000000
+    },
+    {
+      "name": "Public Float",
+      "percentage": 30,
+      "color": "#B0B0B0",
+      "shareValue": 156000000
+    }
+  ],
+  "valuation": 520000000,
+  "stockUnitValue": 21.0,
+  "notes": "Microsoft moved onto its Redmond, WA campus on February 26, 1986, and IPO'd on Nasdaq at $21/share on March 13, 1986, creating an estimated three billionaires and ~12,000 millionaires among employees over time.",
+  "moatScore": 4,
+  "moatLabel": "Emerging",
+  "moatNote": "MS-DOS's OEM licensing deals with IBM and clone makers gave Microsoft a strong early distribution advantage in the nascent PC market.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 55,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 20,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 25,
+      "color": "#EDC948"
+    }
+  ]
+}

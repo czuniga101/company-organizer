@@ -1,0 +1,95 @@
+{
+  "company": "Apple Computer, Inc.",
+  "year": 1980,
+  "ceo": {
+    "name": "Michael Scott",
+    "role": "President & CEO"
+  },
+  "board": [
+    {
+      "name": "Mike Markkula",
+      "role": "Chairman"
+    },
+    {
+      "name": "Steve Jobs",
+      "role": "Co-founder / Chairman-designate"
+    },
+    {
+      "name": "Michael Scott",
+      "role": "President & CEO"
+    },
+    {
+      "name": "Arthur Rock",
+      "role": "Director / Investor"
+    },
+    {
+      "name": "Henry Singleton",
+      "role": "Director"
+    },
+    {
+      "name": "Philip Schlein",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Public Shareholders",
+      "percentage": 54,
+      "color": "#BAB0AC",
+      "shareValue": 960120000
+    },
+    {
+      "name": "Steve Jobs",
+      "percentage": 15,
+      "color": "#4E79A7",
+      "shareValue": 266700000
+    },
+    {
+      "name": "Mike Markkula",
+      "percentage": 11,
+      "color": "#E15759",
+      "shareValue": 195580000
+    },
+    {
+      "name": "Venrock / Arthur Rock",
+      "percentage": 8,
+      "color": "#B07AA1",
+      "shareValue": 142240000
+    },
+    {
+      "name": "Steve Wozniak",
+      "percentage": 7,
+      "color": "#F28E2B",
+      "shareValue": 124460000
+    },
+    {
+      "name": "Michael Scott",
+      "percentage": 5,
+      "color": "#76B7B2",
+      "shareValue": 88900000
+    }
+  ],
+  "valuation": 1778000000,
+  "stockUnitValue": 22,
+  "notes": "Apple IPO'd December 12, 1980 at $22/share, valuing the company near $1.78B. Jobs held roughly 15% (~7.5M shares), Markkula ~11%, Wozniak ~7%. Post-IPO ownership splits are approximate estimates based on contemporary accounts; public float represents shares sold in the offering and to outside holders.",
+  "moatScore": 4,
+  "moatLabel": "Emerging",
+  "moatNote": "IPO year; strong brand but Apple II facing rising clone competition.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 35,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 30,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 35,
+      "color": "#EDC948"
+    }
+  ]
+}

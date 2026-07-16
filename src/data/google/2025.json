@@ -1,0 +1,77 @@
+{
+  "company": "Alphabet Inc.",
+  "ticker": "GOOGL",
+  "year": 2025,
+  "ceo": {
+    "name": "Sundar Pichai",
+    "role": "CEO of Alphabet & Google"
+  },
+  "board": [
+    {
+      "name": "Sundar Pichai",
+      "role": "CEO, Alphabet & Google"
+    },
+    {
+      "name": "John Hennessy",
+      "role": "Chairman"
+    },
+    {
+      "name": "Ruth Porat",
+      "role": "President & Chief Investment Officer"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Larry Page",
+      "percentage": 10,
+      "color": "#E8734A",
+      "shareValue": 300000000000
+    },
+    {
+      "name": "Sergey Brin",
+      "percentage": 10,
+      "color": "#4F86C6",
+      "shareValue": 300000000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 56,
+      "color": "#6ABF69",
+      "shareValue": 1680000000000
+    },
+    {
+      "name": "Public Float",
+      "percentage": 24,
+      "color": "#B0B0B0",
+      "shareValue": 720000000000
+    }
+  ],
+  "valuation": 3000000000000,
+  "stockUnitValue": 248.0,
+  "notes": "Alphabet's market cap continued climbing through 2025 on strong Cloud and AI (Gemini) momentum, crossing $3 trillion during the year.",
+  "moatScore": 8,
+  "moatLabel": "Strong",
+  "moatNote": "Continued AI (Gemini), Cloud, and advertising business strength sustained Alphabet's moat as the stock climbed past $3 trillion.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 20,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 45,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 8,
+      "color": "#EDC948"
+    },
+    {
+      "name": "Share Buybacks",
+      "percentage": 27,
+      "color": "#F28E2B"
+    }
+  ]
+}

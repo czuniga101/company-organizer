@@ -1,0 +1,105 @@
+{
+  "company": "Apple Inc.",
+  "year": 2007,
+  "ceo": {
+    "name": "Steve Jobs",
+    "role": "Chief Executive Officer"
+  },
+  "board": [
+    {
+      "name": "Steve Jobs",
+      "role": "CEO & Director"
+    },
+    {
+      "name": "William V. Campbell",
+      "role": "Director"
+    },
+    {
+      "name": "Millard S. Drexler",
+      "role": "Director"
+    },
+    {
+      "name": "Albert Gore Jr.",
+      "role": "Director"
+    },
+    {
+      "name": "Arthur D. Levinson",
+      "role": "Director"
+    },
+    {
+      "name": "Eric E. Schmidt",
+      "role": "Director"
+    },
+    {
+      "name": "Jerome B. York",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Steve Jobs",
+      "percentage": 0.6,
+      "color": "#4E79A7",
+      "shareValue": 1044000000
+    },
+    {
+      "name": "Fidelity (FMR)",
+      "percentage": 5.5,
+      "color": "#F28E2B",
+      "shareValue": 9570000000
+    },
+    {
+      "name": "Barclays Global Investors",
+      "percentage": 4.2,
+      "color": "#E15759",
+      "shareValue": 7308000000
+    },
+    {
+      "name": "State Street",
+      "percentage": 3.6,
+      "color": "#76B7B2",
+      "shareValue": 6264000000
+    },
+    {
+      "name": "Vanguard Group",
+      "percentage": 3.1,
+      "color": "#59A14F",
+      "shareValue": 5394000000
+    },
+    {
+      "name": "Other Institutions",
+      "percentage": 44,
+      "color": "#EDC948",
+      "shareValue": 76560000000
+    },
+    {
+      "name": "Public Shareholders",
+      "percentage": 39,
+      "color": "#B07AA1",
+      "shareValue": 67860000000
+    }
+  ],
+  "valuation": 174000000000,
+  "stockUnitValue": 198.08,
+  "notes": "Estimated. Company renamed from Apple Computer, Inc. to Apple Inc. in Jan 2007. Year-end share price ~$198 nominal (pre-splits); market cap ~$174B. Ownership figures are illustrative institutional estimates.",
+  "moatScore": 8,
+  "moatLabel": "Strong",
+  "moatNote": "iPhone launch creates a category-defining, hard-to-replicate moat.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 25,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 30,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 45,
+      "color": "#EDC948"
+    }
+  ]
+}

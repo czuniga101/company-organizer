@@ -1,0 +1,82 @@
+{
+  "company": "Microsoft Corporation",
+  "ticker": "MSFT",
+  "year": 2025,
+  "ceo": {
+    "name": "Satya Nadella",
+    "role": "Chairman & CEO"
+  },
+  "board": [
+    {
+      "name": "Satya Nadella",
+      "role": "Chairman & CEO"
+    },
+    {
+      "name": "John W. Thompson",
+      "role": "Lead Independent Director"
+    },
+    {
+      "name": "Reid Hoffman",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Steve Ballmer",
+      "percentage": 4.4,
+      "color": "#E8734A",
+      "shareValue": 176000000000
+    },
+    {
+      "name": "Vanguard Group",
+      "percentage": 9.6,
+      "color": "#4F86C6",
+      "shareValue": 384000000000
+    },
+    {
+      "name": "BlackRock",
+      "percentage": 8.1,
+      "color": "#6ABF69",
+      "shareValue": 324000000000
+    },
+    {
+      "name": "Other Institutions / Public Float",
+      "percentage": 77.9,
+      "color": "#B0B0B0",
+      "shareValue": 3116000000000
+    }
+  ],
+  "valuation": 4000000000000,
+  "stockUnitValue": 538.0,
+  "notes": "Microsoft became the second company (after NVIDIA) to surpass a $4 trillion market value in July 2025, driven by continued AI/Azure infrastructure investment and the $80B FY2025 AI capex plan.",
+  "moatScore": 9,
+  "moatLabel": "Dominant",
+  "moatNote": "Continued AI infrastructure leadership (Azure, OpenAI partnership, Copilot) sustained Microsoft's position as one of the two most valuable companies in the world.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 18,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 45,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 7,
+      "color": "#EDC948"
+    },
+    {
+      "name": "Share Buybacks",
+      "percentage": 17,
+      "color": "#F28E2B"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 13,
+      "color": "#59A14F"
+    }
+  ]
+}

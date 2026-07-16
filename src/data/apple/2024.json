@@ -1,0 +1,107 @@
+{
+  "company": "Apple Inc.",
+  "year": 2024,
+  "ceo": {
+    "name": "Tim Cook",
+    "role": "Chief Executive Officer"
+  },
+  "board": [
+    {
+      "name": "Arthur D. Levinson",
+      "role": "Chairman"
+    },
+    {
+      "name": "Tim Cook",
+      "role": "Director & CEO"
+    },
+    {
+      "name": "Wanda M. Austin",
+      "role": "Independent Director"
+    },
+    {
+      "name": "Andrea Jung",
+      "role": "Independent Director"
+    },
+    {
+      "name": "Monica C. Lozano",
+      "role": "Independent Director"
+    },
+    {
+      "name": "Ronald D. Sugar",
+      "role": "Independent Director"
+    },
+    {
+      "name": "Susan L. Wagner",
+      "role": "Independent Director"
+    },
+    {
+      "name": "Alex Gorsky",
+      "role": "Independent Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "The Vanguard Group",
+      "percentage": 8,
+      "color": "#C0392B",
+      "shareValue": 280000000000
+    },
+    {
+      "name": "BlackRock Inc.",
+      "percentage": 6.5,
+      "color": "#2C3E50",
+      "shareValue": 227500000000
+    },
+    {
+      "name": "Berkshire Hathaway",
+      "percentage": 5.6,
+      "color": "#27AE60",
+      "shareValue": 196000000000
+    },
+    {
+      "name": "State Street Corp.",
+      "percentage": 3.8,
+      "color": "#8E44AD",
+      "shareValue": 133000000000
+    },
+    {
+      "name": "Public Shareholders & Other Institutions",
+      "percentage": 76.1,
+      "color": "#F39C12",
+      "shareValue": 2663500000000
+    }
+  ],
+  "valuation": 3500000000000,
+  "stockUnitValue": 229,
+  "notes": "Updated after web verification: Al Gore and James Bell both retired from the board in January 2024 (AppleInsider, Fortune), confirming the biggest board shakeup in years. Wanda Austin joined in 2024. ~$3.5T market cap and ~$229 share price are estimated; Berkshire trimmed its stake during 2024 but remains a top holder.",
+  "moatScore": 9,
+  "moatLabel": "Fortress (Tested)",
+  "moatNote": "DOJ antitrust suit and EU DMA compliance pressure the platform moat.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 18,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Share Buybacks",
+      "percentage": 48,
+      "color": "#F28E2B"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 12,
+      "color": "#59A14F"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 17,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 5,
+      "color": "#EDC948"
+    }
+  ]
+}

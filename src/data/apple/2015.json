@@ -1,0 +1,115 @@
+{
+  "company": "Apple Inc.",
+  "year": 2015,
+  "ceo": {
+    "name": "Tim Cook",
+    "role": "Chief Executive Officer"
+  },
+  "board": [
+    {
+      "name": "Arthur D. Levinson",
+      "role": "Chairman"
+    },
+    {
+      "name": "Tim Cook",
+      "role": "Director & CEO"
+    },
+    {
+      "name": "Al Gore",
+      "role": "Director"
+    },
+    {
+      "name": "Robert A. Iger",
+      "role": "Director"
+    },
+    {
+      "name": "Andrea Jung",
+      "role": "Director"
+    },
+    {
+      "name": "Ronald D. Sugar",
+      "role": "Director"
+    },
+    {
+      "name": "Susan L. Wagner",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Public Shareholders",
+      "percentage": 65,
+      "color": "#4E79A7",
+      "shareValue": 380900000000
+    },
+    {
+      "name": "The Vanguard Group",
+      "percentage": 5,
+      "color": "#F28E2B",
+      "shareValue": 29300000000
+    },
+    {
+      "name": "BlackRock",
+      "percentage": 5,
+      "color": "#59A14F",
+      "shareValue": 29300000000
+    },
+    {
+      "name": "State Street Global Advisors",
+      "percentage": 4,
+      "color": "#E15759",
+      "shareValue": 23440000000
+    },
+    {
+      "name": "FMR (Fidelity)",
+      "percentage": 5,
+      "color": "#76B7B2",
+      "shareValue": 29300000000
+    },
+    {
+      "name": "Other Institutional Investors",
+      "percentage": 14,
+      "color": "#B07AA1",
+      "shareValue": 82040000000
+    },
+    {
+      "name": "Insiders & Executives",
+      "percentage": 2,
+      "color": "#FF9DA7",
+      "shareValue": 11720000000
+    }
+  ],
+  "valuation": 586000000000,
+  "stockUnitValue": 105,
+  "notes": "Stock price approximate year-end 2015 close (~$105, post-split); market cap ~$586B. Millard Drexler departed the board in 2015. Ownership percentages estimated; Vanguard/BlackRock had grown to be Apple's largest institutional holders by this period.",
+  "moatScore": 9,
+  "moatLabel": "Dominant",
+  "moatNote": "Services revenue growing; ecosystem lock-in among the strongest in tech.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 15,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Share Buybacks",
+      "percentage": 40,
+      "color": "#F28E2B"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 20,
+      "color": "#59A14F"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 20,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 5,
+      "color": "#EDC948"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "company": "Apple Computer Company",
+  "year": 1976,
+  "ceo": {
+    "name": "Steve Jobs",
+    "role": "Co-founder & Operations Lead (no formal CEO title)"
+  },
+  "board": [
+    {
+      "name": "Steve Jobs",
+      "role": "Co-founder / Partner"
+    },
+    {
+      "name": "Steve Wozniak",
+      "role": "Co-founder / Partner"
+    },
+    {
+      "name": "Ronald Wayne",
+      "role": "Co-founder / Partner (administration)"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Steve Jobs",
+      "percentage": 45,
+      "color": "#4E79A7",
+      "shareValue": 2250
+    },
+    {
+      "name": "Steve Wozniak",
+      "percentage": 45,
+      "color": "#F28E2B",
+      "shareValue": 2250
+    },
+    {
+      "name": "Ronald Wayne",
+      "percentage": 10,
+      "color": "#59A14F",
+      "shareValue": 500
+    }
+  ],
+  "valuation": 5000,
+  "stockUnitValue": 1,
+  "notes": "Founded April 1, 1976 as a partnership. Original split was Jobs 45%, Wozniak 45%, Wayne 10%; Wayne sold his stake back within ~12 days for $800. Valuation and unit value are rough estimates for the nascent partnership.",
+  "moatScore": 2,
+  "moatLabel": "Pre-Moat",
+  "moatNote": "Hobbyist kit-computer market; no defensible advantage yet.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 40,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 20,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 40,
+      "color": "#EDC948"
+    }
+  ]
+}

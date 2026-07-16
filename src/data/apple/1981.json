@@ -1,0 +1,89 @@
+{
+  "company": "Apple Computer, Inc.",
+  "year": 1981,
+  "ceo": {
+    "name": "A.C. (Mike) Markkula Jr.",
+    "role": "President & Chief Executive Officer"
+  },
+  "board": [
+    {
+      "name": "Steven P. Jobs",
+      "role": "Chairman of the Board"
+    },
+    {
+      "name": "A.C. (Mike) Markkula Jr.",
+      "role": "President & CEO, Director"
+    },
+    {
+      "name": "Arthur Rock",
+      "role": "Director"
+    },
+    {
+      "name": "Henry E. Singleton",
+      "role": "Director"
+    },
+    {
+      "name": "Peter O. Crisp",
+      "role": "Director"
+    },
+    {
+      "name": "Philip S. Schlein",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Steven P. Jobs",
+      "percentage": 11,
+      "color": "#4E79A7",
+      "shareValue": 176000000
+    },
+    {
+      "name": "A.C. (Mike) Markkula Jr.",
+      "percentage": 11,
+      "color": "#F28E2B",
+      "shareValue": 176000000
+    },
+    {
+      "name": "Arthur Rock",
+      "percentage": 5,
+      "color": "#E15759",
+      "shareValue": 80000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 30,
+      "color": "#76B7B2",
+      "shareValue": 480000000
+    },
+    {
+      "name": "Public Shareholders",
+      "percentage": 43,
+      "color": "#59A14F",
+      "shareValue": 688000000
+    }
+  ],
+  "valuation": 1600000000,
+  "stockUnitValue": 15,
+  "notes": "Estimated. Apple IPO'd Dec 1980; Mike Markkula became President/CEO in 1981 after Michael Scott. Ownership percentages and valuation are approximations based on post-IPO insider holdings and historical market cap; not exact filings.",
+  "moatScore": 3,
+  "moatLabel": "Eroding",
+  "moatNote": "IBM PC enters market (Aug 1981); Apple's lead starts narrowing.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 35,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 30,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 35,
+      "color": "#EDC948"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "company": "Amazon.com, Inc.",
+  "ticker": "AMZN",
+  "year": 2022,
+  "ceo": {
+    "name": "Andy Jassy",
+    "role": "President & CEO"
+  },
+  "board": [
+    {
+      "name": "Jeff Bezos",
+      "role": "Executive Chair"
+    },
+    {
+      "name": "Andy Jassy",
+      "role": "President & CEO"
+    },
+    {
+      "name": "Jamie Gorelick",
+      "role": "Director"
+    },
+    {
+      "name": "Indra Nooyi",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Jeff Bezos",
+      "percentage": 10,
+      "color": "#E8734A",
+      "shareValue": 85600000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 64,
+      "color": "#4F86C6",
+      "shareValue": 547840000000
+    },
+    {
+      "name": "Public Float",
+      "percentage": 26,
+      "color": "#B0B0B0",
+      "shareValue": 222560000000
+    }
+  ],
+  "valuation": 856000000000,
+  "stockUnitValue": 84.0,
+  "notes": "Amazon completed a 20-for-1 stock split in June 2022; shares fell sharply through the year amid the broad tech selloff and post-pandemic e-commerce slowdown, alongside major layoffs announced in November.",
+  "moatScore": 7,
+  "moatLabel": "Tested",
+  "moatNote": "Post-pandemic demand normalization, inflation, and overbuilt fulfillment capacity forced major cost-cutting and layoffs, testing (but not breaking) the core moat.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 35,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 55,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 10,
+      "color": "#EDC948"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "company": "Toyota Motor Corporation",
+  "year": 2011,
+  "ceo": {
+    "name": "Akio Toyoda",
+    "role": "President"
+  },
+  "board": [
+    {
+      "name": "Akio Toyoda",
+      "role": "President"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Toyoda Family / Group Companies",
+      "percentage": 24,
+      "color": "#E8734A",
+      "shareValue": 28800000000
+    },
+    {
+      "name": "Foreign Institutional Investors",
+      "percentage": 27,
+      "color": "#4F86C6",
+      "shareValue": 32400000000
+    },
+    {
+      "name": "Domestic Institutional / Banks",
+      "percentage": 39,
+      "color": "#6ABF69",
+      "shareValue": 46800000000
+    },
+    {
+      "name": "Other",
+      "percentage": 10,
+      "color": "#B0B0B0",
+      "shareValue": 12000000000
+    }
+  ],
+  "valuation": 120000000000,
+  "stockUnitValue": null,
+  "notes": "March 2011 Tohoku earthquake/tsunami severely disrupted Toyota's Japanese supply chain and production for much of the year, compounding recall-crisis recovery efforts.",
+  "moatScore": 4,
+  "moatLabel": "Tested",
+  "moatNote": "Earthquake-driven supply chain disruption compounded recall-era difficulties; production and sales fell sharply.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 20,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 35,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 30,
+      "color": "#EDC948"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 15,
+      "color": "#59A14F"
+    }
+  ]
+}

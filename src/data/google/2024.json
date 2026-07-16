@@ -1,0 +1,77 @@
+{
+  "company": "Alphabet Inc.",
+  "ticker": "GOOGL",
+  "year": 2024,
+  "ceo": {
+    "name": "Sundar Pichai",
+    "role": "CEO of Alphabet & Google"
+  },
+  "board": [
+    {
+      "name": "Sundar Pichai",
+      "role": "CEO, Alphabet & Google"
+    },
+    {
+      "name": "John Hennessy",
+      "role": "Chairman"
+    },
+    {
+      "name": "Ruth Porat",
+      "role": "President & Chief Investment Officer"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Larry Page",
+      "percentage": 10.5,
+      "color": "#E8734A",
+      "shareValue": 210000000000
+    },
+    {
+      "name": "Sergey Brin",
+      "percentage": 10.5,
+      "color": "#4F86C6",
+      "shareValue": 210000000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 55,
+      "color": "#6ABF69",
+      "shareValue": 1100000000000
+    },
+    {
+      "name": "Public Float",
+      "percentage": 24,
+      "color": "#B0B0B0",
+      "shareValue": 480000000000
+    }
+  ],
+  "valuation": 2000000000000,
+  "stockUnitValue": 165.0,
+  "notes": "Alphabet's market capitalization approached and then crossed $2 trillion in 2024, driven by AI (Gemini) investment and continued Search/Cloud/YouTube growth.",
+  "moatScore": 8,
+  "moatLabel": "Strong (Rebuilding)",
+  "moatNote": "Gemini AI model investment and continued Cloud/YouTube growth helped Alphabet push past $2 trillion, addressing generative-AI competitive concerns.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 22,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 40,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 8,
+      "color": "#EDC948"
+    },
+    {
+      "name": "Share Buybacks",
+      "percentage": 30,
+      "color": "#F28E2B"
+    }
+  ]
+}

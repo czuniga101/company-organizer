@@ -1,0 +1,81 @@
+{
+  "company": "Toyota Motor Corporation",
+  "year": 2026,
+  "ceo": {
+    "name": "Kenta Kon",
+    "role": "President"
+  },
+  "board": [
+    {
+      "name": "Kenta Kon",
+      "role": "President"
+    },
+    {
+      "name": "Akio Toyoda",
+      "role": "Chairman"
+    },
+    {
+      "name": "Koji Sato",
+      "role": "Vice Chairman / Chief Industry Officer"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Toyoda Family / Group Companies",
+      "percentage": 18,
+      "color": "#E8734A",
+      "shareValue": 40230000000
+    },
+    {
+      "name": "Foreign Institutional Investors",
+      "percentage": 32,
+      "color": "#4F86C6",
+      "shareValue": 71520000000
+    },
+    {
+      "name": "Domestic Institutional / Banks",
+      "percentage": 40,
+      "color": "#6ABF69",
+      "shareValue": 89400000000
+    },
+    {
+      "name": "Other",
+      "percentage": 10,
+      "color": "#B0B0B0",
+      "shareValue": 22350000000
+    }
+  ],
+  "valuation": 223500000000,
+  "stockUnitValue": null,
+  "notes": "Koji Sato stepped down as president effective April 1, 2026 after three years, moving to vice chairman / chief industry officer; operating officer Kenta Kon became the new president. Market cap ~$223.5B as of June 2026, second among automakers behind Tesla.",
+  "moatScore": 7,
+  "moatLabel": "Stable",
+  "moatNote": "Leadership transition to non-family president (Kon) continues post-Toyoda-era professionalization; moat largely intact but EV competition from BYD/Tesla a long-term risk.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 18,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 42,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 5,
+      "color": "#EDC948"
+    },
+    {
+      "name": "Share Buybacks",
+      "percentage": 10,
+      "color": "#F28E2B"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 25,
+      "color": "#59A14F"
+    }
+  ]
+}

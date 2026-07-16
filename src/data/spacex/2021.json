@@ -1,0 +1,73 @@
+{
+  "company": "Space Exploration Technologies Corp.",
+  "year": 2021,
+  "ceo": {
+    "name": "Elon Musk",
+    "role": "CEO / CTO"
+  },
+  "board": [
+    {
+      "name": "Elon Musk",
+      "role": "CEO"
+    },
+    {
+      "name": "Gwynne Shotwell",
+      "role": "President & COO"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Elon Musk",
+      "percentage": 45,
+      "color": "#E8734A",
+      "shareValue": 45150000000
+    },
+    {
+      "name": "Founders Fund",
+      "percentage": 10,
+      "color": "#4F86C6",
+      "shareValue": 10030000000
+    },
+    {
+      "name": "Google (Alphabet)",
+      "percentage": 7,
+      "color": "#6ABF69",
+      "shareValue": 7021000000
+    },
+    {
+      "name": "Fidelity",
+      "percentage": 9,
+      "color": "#F5C842",
+      "shareValue": 9027000000
+    },
+    {
+      "name": "Other Investors",
+      "percentage": 29,
+      "color": "#B0B0B0",
+      "shareValue": 29087000000
+    }
+  ],
+  "valuation": 100300000000,
+  "stockUnitValue": null,
+  "notes": "Inspiration4 (September 2021) was the first all-civilian orbital spaceflight. SpaceX crossed the $100B valuation mark for the first time in October 2021.",
+  "moatScore": 9,
+  "moatLabel": "Dominant",
+  "moatNote": "Civilian spaceflight and rapid launch cadence cemented SpaceX as the default global launch provider.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 25,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 65,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 10,
+      "color": "#EDC948"
+    }
+  ]
+}

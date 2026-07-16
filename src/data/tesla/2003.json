@@ -1,0 +1,61 @@
+{
+  "company": "Tesla Motors, Inc.",
+  "year": 2003,
+  "ceo": {
+    "name": "Martin Eberhard",
+    "role": "Co-Founder / CEO"
+  },
+  "board": [
+    {
+      "name": "Martin Eberhard",
+      "role": "Co-Founder / CEO"
+    },
+    {
+      "name": "Marc Tarpenning",
+      "role": "Co-Founder / CFO"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Martin Eberhard",
+      "percentage": 45,
+      "color": "#E8734A",
+      "shareValue": 2250000
+    },
+    {
+      "name": "Marc Tarpenning",
+      "percentage": 35,
+      "color": "#4F86C6",
+      "shareValue": 1750000
+    },
+    {
+      "name": "Other / Early Employees",
+      "percentage": 20,
+      "color": "#B0B0B0",
+      "shareValue": 1000000
+    }
+  ],
+  "valuation": 5000000,
+  "stockUnitValue": null,
+  "notes": "Tesla Motors incorporated July 1, 2003 in Delaware by Martin Eberhard and Marc Tarpenning. Elon Musk not yet involved.",
+  "moatScore": 1,
+  "moatLabel": "Pre-Revenue",
+  "moatNote": "Startup phase; no product, no moat yet.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 50,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 10,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 40,
+      "color": "#EDC948"
+    }
+  ]
+}

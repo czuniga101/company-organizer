@@ -1,0 +1,61 @@
+{
+  "company": "Space Exploration Technologies Corp.",
+  "year": 2006,
+  "ceo": {
+    "name": "Elon Musk",
+    "role": "CEO / CTO"
+  },
+  "board": [
+    {
+      "name": "Elon Musk",
+      "role": "CEO"
+    },
+    {
+      "name": "Gwynne Shotwell",
+      "role": "VP Business Development"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Elon Musk",
+      "percentage": 75,
+      "color": "#E8734A",
+      "shareValue": 112500000
+    },
+    {
+      "name": "Founders Fund",
+      "percentage": 15,
+      "color": "#4F86C6",
+      "shareValue": 22500000
+    },
+    {
+      "name": "Other Early Investors",
+      "percentage": 10,
+      "color": "#B0B0B0",
+      "shareValue": 15000000
+    }
+  ],
+  "valuation": 150000000,
+  "stockUnitValue": null,
+  "notes": "NASA awarded SpaceX a Commercial Orbital Transportation Services (COTS) contract in August 2006, worth up to $278M to develop the Falcon 9 and Dragon \u2014 a pivotal early validation.",
+  "moatScore": 3,
+  "moatLabel": "Emerging",
+  "moatNote": "NASA COTS contract provided crucial early validation and capital.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 55,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 35,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 10,
+      "color": "#EDC948"
+    }
+  ]
+}

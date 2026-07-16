@@ -1,0 +1,84 @@
+{
+  "company": "NVIDIA Corporation",
+  "ticker": "NVDA",
+  "year": 2016,
+  "ceo": {
+    "name": "Jensen Huang",
+    "role": "President & CEO"
+  },
+  "board": [
+    {
+      "name": "Jensen Huang",
+      "role": "President & CEO"
+    },
+    {
+      "name": "Mark Stevens",
+      "role": "Director"
+    },
+    {
+      "name": "Tench Coxe",
+      "role": "Director"
+    },
+    {
+      "name": "Persis Drell",
+      "role": "Director"
+    },
+    {
+      "name": "A. Brooke Seawell",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Jensen Huang",
+      "percentage": 3.5,
+      "color": "#E8734A",
+      "shareValue": 945000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 70,
+      "color": "#4F86C6",
+      "shareValue": 18900000000
+    },
+    {
+      "name": "Public Float",
+      "percentage": 26.5,
+      "color": "#B0B0B0",
+      "shareValue": 7155000000
+    }
+  ],
+  "valuation": 27000000000,
+  "stockUnitValue": 27.0,
+  "notes": "Stock roughly tripled in 2016 as data-center and AI training demand for NVIDIA GPUs (Pascal architecture, Tesla P100) accelerated sharply.",
+  "moatScore": 7,
+  "moatLabel": "Differentiated",
+  "moatNote": "CUDA's developer ecosystem and architecture lead made NVIDIA the default choice for AI training, a hard-to-replicate software moat.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 40,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 15,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 15,
+      "color": "#EDC948"
+    },
+    {
+      "name": "Share Buybacks",
+      "percentage": 25,
+      "color": "#F28E2B"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 5,
+      "color": "#59A14F"
+    }
+  ]
+}

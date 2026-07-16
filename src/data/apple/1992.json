@@ -1,0 +1,92 @@
+{
+  "company": "Apple Computer, Inc.",
+  "year": 1992,
+  "ceo": {
+    "name": "John Sculley",
+    "role": "Chairman & CEO"
+  },
+  "board": [
+    {
+      "name": "John Sculley",
+      "role": "Chairman & CEO"
+    },
+    {
+      "name": "Albert A. Eisenstat",
+      "role": "Executive VP & Director"
+    },
+    {
+      "name": "Peter O. Crisp",
+      "role": "Director"
+    },
+    {
+      "name": "Bernard Goldstein",
+      "role": "Director"
+    },
+    {
+      "name": "Arthur Rock",
+      "role": "Director"
+    },
+    {
+      "name": "Henry E. Singleton",
+      "role": "Director"
+    },
+    {
+      "name": "B. J\u00fcrgen Hintz",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Institutional Investors",
+      "percentage": 62,
+      "color": "#4E79A7",
+      "shareValue": 4030000000
+    },
+    {
+      "name": "Public Shareholders",
+      "percentage": 30,
+      "color": "#F28E2B",
+      "shareValue": 1950000000
+    },
+    {
+      "name": "Insiders & Management",
+      "percentage": 5,
+      "color": "#59A14F",
+      "shareValue": 325000000
+    },
+    {
+      "name": "Employee Stock Plans",
+      "percentage": 3,
+      "color": "#E15759",
+      "shareValue": 195000000
+    }
+  ],
+  "valuation": 6500000000,
+  "stockUnitValue": 54,
+  "notes": "Ownership distribution estimated. Valuation/stock price approximated from 1992 trading range (pre-split). Board membership reflects early-1990s Apple directors.",
+  "moatScore": 3,
+  "moatLabel": "Pressured",
+  "moatNote": "Margin pressure intensifies; clone licensing debates begin.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 35,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 10,
+      "color": "#59A14F"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 25,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 30,
+      "color": "#EDC948"
+    }
+  ]
+}

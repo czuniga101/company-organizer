@@ -1,0 +1,61 @@
+{
+  "company": "Space Exploration Technologies Corp.",
+  "year": 2008,
+  "ceo": {
+    "name": "Elon Musk",
+    "role": "CEO / CTO"
+  },
+  "board": [
+    {
+      "name": "Elon Musk",
+      "role": "CEO"
+    },
+    {
+      "name": "Gwynne Shotwell",
+      "role": "President"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Elon Musk",
+      "percentage": 70,
+      "color": "#E8734A",
+      "shareValue": 175000000
+    },
+    {
+      "name": "Founders Fund",
+      "percentage": 18,
+      "color": "#4F86C6",
+      "shareValue": 45000000
+    },
+    {
+      "name": "Other Early Investors",
+      "percentage": 12,
+      "color": "#B0B0B0",
+      "shareValue": 30000000
+    }
+  ],
+  "valuation": 250000000,
+  "stockUnitValue": null,
+  "notes": "Falcon 1 became the first privately-funded liquid-fueled rocket to reach orbit (Sept 28, 2008), after three earlier failures nearly bankrupted the company. NASA awarded a $1.6B CRS cargo contract in December 2008, saving SpaceX from collapse.",
+  "moatScore": 3,
+  "moatLabel": "At Risk / Validated",
+  "moatNote": "Near-bankruptcy after 3 failed launches; Falcon 1 orbital success and NASA CRS contract saved the company in the same year.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 50,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 40,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 10,
+      "color": "#EDC948"
+    }
+  ]
+}

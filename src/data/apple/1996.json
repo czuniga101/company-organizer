@@ -1,0 +1,90 @@
+{
+  "company": "Apple Computer, Inc.",
+  "year": 1996,
+  "ceo": {
+    "name": "Gilbert F. Amelio",
+    "role": "Chairman & Chief Executive Officer"
+  },
+  "board": [
+    {
+      "name": "Gilbert F. Amelio",
+      "role": "Chairman & CEO"
+    },
+    {
+      "name": "A.C. (Mike) Markkula Jr.",
+      "role": "Vice Chairman"
+    },
+    {
+      "name": "Bernard Goldstein",
+      "role": "Director"
+    },
+    {
+      "name": "Gareth C.C. Chang",
+      "role": "Director"
+    },
+    {
+      "name": "Peter O. Crisp",
+      "role": "Director"
+    },
+    {
+      "name": "Katherine M. Hudson",
+      "role": "Director"
+    },
+    {
+      "name": "Delano E. Lewis",
+      "role": "Director"
+    },
+    {
+      "name": "B. J\u00fcrgen Hintz",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Public Shareholders",
+      "percentage": 55,
+      "color": "#4C72B0",
+      "shareValue": 1705000000
+    },
+    {
+      "name": "Institutional Investors (aggregate)",
+      "percentage": 40,
+      "color": "#55A868",
+      "shareValue": 1240000000
+    },
+    {
+      "name": "Insiders & Directors",
+      "percentage": 5,
+      "color": "#C44E52",
+      "shareValue": 155000000
+    }
+  ],
+  "valuation": 3100000000,
+  "stockUnitValue": 25,
+  "notes": "Amelio became CEO Feb 1996. Market cap (~$3.1B) and ~$25 stock are approximate fiscal-year figures; ownership split is estimated, as Apple was a widely-held public company with no controlling shareholder.",
+  "moatScore": 1,
+  "moatLabel": "Crisis",
+  "moatNote": "Near-failure; clone licensing fragmenting the platform further.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 45,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 5,
+      "color": "#59A14F"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 15,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 35,
+      "color": "#EDC948"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "company": "Facebook, Inc.",
+  "ticker": "FB",
+  "year": 2021,
+  "ceo": {
+    "name": "Mark Zuckerberg",
+    "role": "Founder, Chairman & CEO"
+  },
+  "board": [
+    {
+      "name": "Mark Zuckerberg",
+      "role": "Founder, Chairman & CEO"
+    },
+    {
+      "name": "Sheryl Sandberg",
+      "role": "COO & Director"
+    },
+    {
+      "name": "Marc Andreessen",
+      "role": "Director"
+    },
+    {
+      "name": "Peter Thiel",
+      "role": "Director"
+    },
+    {
+      "name": "Susan Desmond-Hellmann",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Mark Zuckerberg",
+      "percentage": 13,
+      "color": "#E8734A",
+      "shareValue": 121680000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 60,
+      "color": "#4F86C6",
+      "shareValue": 561600000000
+    },
+    {
+      "name": "Public Float",
+      "percentage": 27,
+      "color": "#B0B0B0",
+      "shareValue": 252720000000
+    }
+  ],
+  "valuation": 936000000000,
+  "stockUnitValue": 336.0,
+  "notes": "Facebook, Inc. renamed itself Meta Platforms, Inc. on October 28, 2021, at Connect 2021, reflecting Zuckerberg's strategic pivot toward the \"metaverse.\" Market cap approached $1.1 trillion in September 2021 before the rename.",
+  "moatScore": 8,
+  "moatLabel": "Strong",
+  "moatNote": "Facebook/Instagram/WhatsApp's combined ~3.5 billion users and advertising data moat remained dominant even as the company rebranded to pursue the metaverse.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 30,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 35,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 10,
+      "color": "#EDC948"
+    },
+    {
+      "name": "Share Buybacks",
+      "percentage": 25,
+      "color": "#F28E2B"
+    }
+  ]
+}

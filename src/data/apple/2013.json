@@ -1,0 +1,115 @@
+{
+  "company": "Apple Inc.",
+  "year": 2013,
+  "ceo": {
+    "name": "Tim Cook",
+    "role": "Chief Executive Officer"
+  },
+  "board": [
+    {
+      "name": "Arthur D. Levinson",
+      "role": "Chairman"
+    },
+    {
+      "name": "Tim Cook",
+      "role": "Director & CEO"
+    },
+    {
+      "name": "Al Gore",
+      "role": "Director"
+    },
+    {
+      "name": "Robert A. Iger",
+      "role": "Director"
+    },
+    {
+      "name": "Andrea Jung",
+      "role": "Director"
+    },
+    {
+      "name": "Ronald D. Sugar",
+      "role": "Director"
+    },
+    {
+      "name": "Millard S. Drexler",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Public Shareholders",
+      "percentage": 65,
+      "color": "#4E79A7",
+      "shareValue": 327600000000
+    },
+    {
+      "name": "The Vanguard Group",
+      "percentage": 5,
+      "color": "#F28E2B",
+      "shareValue": 25200000000
+    },
+    {
+      "name": "BlackRock",
+      "percentage": 5,
+      "color": "#59A14F",
+      "shareValue": 25200000000
+    },
+    {
+      "name": "State Street Global Advisors",
+      "percentage": 4,
+      "color": "#E15759",
+      "shareValue": 20160000000
+    },
+    {
+      "name": "FMR (Fidelity)",
+      "percentage": 5,
+      "color": "#76B7B2",
+      "shareValue": 25200000000
+    },
+    {
+      "name": "Other Institutional Investors",
+      "percentage": 14,
+      "color": "#B07AA1",
+      "shareValue": 70560000000
+    },
+    {
+      "name": "Insiders & Executives",
+      "percentage": 2,
+      "color": "#FF9DA7",
+      "shareValue": 10080000000
+    }
+  ],
+  "valuation": 504000000000,
+  "stockUnitValue": 561,
+  "notes": "Stock price approximate year-end 2013 close (~$561, pre-split); market cap ~$504B. Ownership percentages estimated; institutional ownership of Apple ran roughly 60-65% in this period.",
+  "moatScore": 9,
+  "moatLabel": "Dominant",
+  "moatNote": "Services and ecosystem switching costs continue to widen the moat.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 15,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Share Buybacks",
+      "percentage": 30,
+      "color": "#F28E2B"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 20,
+      "color": "#59A14F"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 25,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 10,
+      "color": "#EDC948"
+    }
+  ]
+}

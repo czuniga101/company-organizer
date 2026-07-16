@@ -1,0 +1,95 @@
+{
+  "company": "Apple Computer, Inc.",
+  "year": 2003,
+  "ceo": {
+    "name": "Steve Jobs",
+    "role": "Chief Executive Officer"
+  },
+  "board": [
+    {
+      "name": "Steve Jobs",
+      "role": "CEO & Director"
+    },
+    {
+      "name": "William V. Campbell",
+      "role": "Director"
+    },
+    {
+      "name": "Millard S. Drexler",
+      "role": "Director"
+    },
+    {
+      "name": "Albert A. Gore, Jr.",
+      "role": "Director"
+    },
+    {
+      "name": "Arthur D. Levinson",
+      "role": "Director"
+    },
+    {
+      "name": "Jerome B. York",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Steve Jobs",
+      "percentage": 1,
+      "color": "#4E79A7",
+      "shareValue": 75000000
+    },
+    {
+      "name": "Fidelity Investments (FMR)",
+      "percentage": 11,
+      "color": "#F28E2B",
+      "shareValue": 825000000
+    },
+    {
+      "name": "State Street Global Advisors",
+      "percentage": 5,
+      "color": "#59A14F",
+      "shareValue": 375000000
+    },
+    {
+      "name": "The Vanguard Group",
+      "percentage": 4.5,
+      "color": "#E15759",
+      "shareValue": 337500000
+    },
+    {
+      "name": "Other Institutional Investors",
+      "percentage": 38.5,
+      "color": "#B07AA1",
+      "shareValue": 2887500000
+    },
+    {
+      "name": "Public Shareholders",
+      "percentage": 40,
+      "color": "#76B7B2",
+      "shareValue": 3000000000
+    }
+  ],
+  "valuation": 7500000000,
+  "stockUnitValue": 21.37,
+  "notes": "Al Gore joined the board in March 2003. Jobs received a restricted-stock grant (~5M shares) in 2003, modestly raising his direct stake. Valuation ~$7.5B (~$21.37/share). Ownership percentages estimated.",
+  "moatScore": 6,
+  "moatLabel": "Building",
+  "moatNote": "iTunes Store creates a genuine digital-content ecosystem moat.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 35,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 25,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 40,
+      "color": "#EDC948"
+    }
+  ]
+}

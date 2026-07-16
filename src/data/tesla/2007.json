@@ -1,0 +1,75 @@
+{
+  "company": "Tesla Motors, Inc.",
+  "year": 2007,
+  "ceo": {
+    "name": "Ze'ev Drori",
+    "role": "Interim CEO (Eberhard stepped down Aug 2007)"
+  },
+  "board": [
+    {
+      "name": "Elon Musk",
+      "role": "Chairman"
+    },
+    {
+      "name": "Ze'ev Drori",
+      "role": "Interim CEO"
+    },
+    {
+      "name": "Antonio Gracias",
+      "role": "Director"
+    },
+    {
+      "name": "Ira Ehrenpreis",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Elon Musk",
+      "percentage": 22,
+      "color": "#E8734A",
+      "shareValue": 22000000
+    },
+    {
+      "name": "VCs (DFJ / Valor / Technology Partners)",
+      "percentage": 48,
+      "color": "#4F86C6",
+      "shareValue": 48000000
+    },
+    {
+      "name": "Founders / Employees",
+      "percentage": 20,
+      "color": "#6ABF69",
+      "shareValue": 20000000
+    },
+    {
+      "name": "Other",
+      "percentage": 10,
+      "color": "#B0B0B0",
+      "shareValue": 10000000
+    }
+  ],
+  "valuation": 100000000,
+  "stockUnitValue": null,
+  "notes": "Eberhard forced out as CEO in August 2007; Ze'ev Drori became interim CEO. Musk became CEO in December 2007. Roadster production repeatedly delayed.",
+  "moatScore": 2,
+  "moatLabel": "At Risk",
+  "moatNote": "Production delays and CEO turmoil threatened viability.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 55,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 25,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 20,
+      "color": "#EDC948"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "company": "Apple Computer, Inc.",
+  "year": 1993,
+  "ceo": {
+    "name": "Michael H. Spindler",
+    "role": "President & CEO"
+  },
+  "board": [
+    {
+      "name": "John Sculley",
+      "role": "Chairman (until late 1993)"
+    },
+    {
+      "name": "Michael H. Spindler",
+      "role": "President & CEO"
+    },
+    {
+      "name": "Albert A. Eisenstat",
+      "role": "Director"
+    },
+    {
+      "name": "Peter O. Crisp",
+      "role": "Director"
+    },
+    {
+      "name": "Bernard Goldstein",
+      "role": "Director"
+    },
+    {
+      "name": "Arthur Rock",
+      "role": "Director"
+    },
+    {
+      "name": "B. J\u00fcrgen Hintz",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Institutional Investors",
+      "percentage": 63,
+      "color": "#4E79A7",
+      "shareValue": 2835000000
+    },
+    {
+      "name": "Public Shareholders",
+      "percentage": 29,
+      "color": "#F28E2B",
+      "shareValue": 1305000000
+    },
+    {
+      "name": "Insiders & Management",
+      "percentage": 5,
+      "color": "#59A14F",
+      "shareValue": 225000000
+    },
+    {
+      "name": "Employee Stock Plans",
+      "percentage": 3,
+      "color": "#E15759",
+      "shareValue": 135000000
+    }
+  ],
+  "valuation": 4500000000,
+  "stockUnitValue": 38,
+  "notes": "Leadership transition year: Sculley departed and Spindler became CEO mid-1993. Stock fell sharply this year; valuation/price approximated from 1993 low range. Ownership percentages estimated.",
+  "moatScore": 2,
+  "moatLabel": "Declining",
+  "moatNote": "Sculley ousted; Newton flop; competitive position weakening badly.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 40,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 10,
+      "color": "#59A14F"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 20,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 30,
+      "color": "#EDC948"
+    }
+  ]
+}

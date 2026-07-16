@@ -1,0 +1,77 @@
+{
+  "company": "Apple Computer, Inc.",
+  "year": 1999,
+  "ceo": {
+    "name": "Steven P. Jobs",
+    "role": "Interim Chief Executive Officer (iCEO)"
+  },
+  "board": [
+    {
+      "name": "Steven P. Jobs",
+      "role": "Interim CEO & Director"
+    },
+    {
+      "name": "Lawrence J. Ellison",
+      "role": "Director"
+    },
+    {
+      "name": "William V. Campbell",
+      "role": "Director"
+    },
+    {
+      "name": "Gareth C.C. Chang",
+      "role": "Director"
+    },
+    {
+      "name": "Edgar S. Woolard Jr.",
+      "role": "Director"
+    },
+    {
+      "name": "Jerome B. York",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Public Shareholders",
+      "percentage": 52,
+      "color": "#4C72B0",
+      "shareValue": 8320000000
+    },
+    {
+      "name": "Institutional Investors (aggregate)",
+      "percentage": 43,
+      "color": "#55A868",
+      "shareValue": 6880000000
+    },
+    {
+      "name": "Insiders & Directors",
+      "percentage": 5,
+      "color": "#C44E52",
+      "shareValue": 800000000
+    }
+  ],
+  "valuation": 16000000000,
+  "stockUnitValue": 100,
+  "notes": "Strong year ahead of the dot-com peak; stock approached ~$100 (pre-June-2000 2:1 split) with market cap ~$16B. Figures approximate; ownership split estimated.",
+  "moatScore": 4,
+  "moatLabel": "Recovering",
+  "moatNote": "Consumer momentum building; iBook extends design-led appeal.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 35,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 25,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 40,
+      "color": "#EDC948"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "company": "Tesla Motors, Inc.",
+  "year": 2012,
+  "ceo": {
+    "name": "Elon Musk",
+    "role": "CEO"
+  },
+  "board": [
+    {
+      "name": "Elon Musk",
+      "role": "CEO & Chairman"
+    },
+    {
+      "name": "Antonio Gracias",
+      "role": "Director"
+    },
+    {
+      "name": "Ira Ehrenpreis",
+      "role": "Director"
+    },
+    {
+      "name": "Brad Buss",
+      "role": "Director"
+    },
+    {
+      "name": "Robyn Denholm",
+      "role": "Director"
+    },
+    {
+      "name": "Stephen Jurvetson",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Elon Musk",
+      "percentage": 24,
+      "color": "#E8734A",
+      "shareValue": 912000000
+    },
+    {
+      "name": "Public / Retail Shareholders",
+      "percentage": 28,
+      "color": "#4F86C6",
+      "shareValue": 1064000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 38,
+      "color": "#F5C842",
+      "shareValue": 1444000000
+    },
+    {
+      "name": "Employees / Other",
+      "percentage": 10,
+      "color": "#B0B0B0",
+      "shareValue": 380000000
+    }
+  ],
+  "valuation": 3800000000,
+  "stockUnitValue": 35.0,
+  "notes": "Model S deliveries began June 2012; received Motor Trend Car of the Year. Daimler reduced stake.",
+  "moatScore": 5,
+  "moatLabel": "Differentiated",
+  "moatNote": "Model S won Motor Trend Car of the Year; OTA software updates created durable advantage.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 35,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 45,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 20,
+      "color": "#EDC948"
+    }
+  ]
+}

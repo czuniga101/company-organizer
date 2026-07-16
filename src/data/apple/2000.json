@@ -1,0 +1,81 @@
+{
+  "company": "Apple Computer, Inc.",
+  "year": 2000,
+  "ceo": {
+    "name": "Steven P. Jobs",
+    "role": "Chief Executive Officer (permanent)"
+  },
+  "board": [
+    {
+      "name": "Steven P. Jobs",
+      "role": "CEO & Director"
+    },
+    {
+      "name": "Lawrence J. Ellison",
+      "role": "Director"
+    },
+    {
+      "name": "William V. Campbell",
+      "role": "Director"
+    },
+    {
+      "name": "Gareth C.C. Chang",
+      "role": "Director"
+    },
+    {
+      "name": "Edgar S. Woolard Jr.",
+      "role": "Director"
+    },
+    {
+      "name": "Jerome B. York",
+      "role": "Director"
+    },
+    {
+      "name": "Arthur D. Levinson",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Public Shareholders",
+      "percentage": 50,
+      "color": "#4C72B0",
+      "shareValue": 3000000000
+    },
+    {
+      "name": "Institutional Investors (aggregate)",
+      "percentage": 45,
+      "color": "#55A868",
+      "shareValue": 2700000000
+    },
+    {
+      "name": "Insiders & Directors",
+      "percentage": 5,
+      "color": "#C44E52",
+      "shareValue": 300000000
+    }
+  ],
+  "valuation": 6000000000,
+  "stockUnitValue": 15,
+  "notes": "Jobs dropped 'interim' title Jan 2000; Levinson joined the board. Stock split 2:1 in June 2000, then a Sept 2000 earnings warning crashed shares to ~$15 (post-split), cutting year-end market cap to ~$6B. Figures approximate; ownership estimated.",
+  "moatScore": 4,
+  "moatLabel": "Recovering",
+  "moatNote": "Jobs made permanent CEO; OS X groundwork laid for a real platform moat.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 35,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 25,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 40,
+      "color": "#EDC948"
+    }
+  ]
+}

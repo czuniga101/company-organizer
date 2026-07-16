@@ -1,0 +1,76 @@
+{
+  "company": "Microsoft Corporation",
+  "ticker": "MSFT",
+  "year": 2014,
+  "ceo": {
+    "name": "Satya Nadella",
+    "role": "CEO"
+  },
+  "board": [
+    {
+      "name": "John W. Thompson",
+      "role": "Chairman"
+    },
+    {
+      "name": "Satya Nadella",
+      "role": "CEO"
+    },
+    {
+      "name": "Bill Gates",
+      "role": "Founder & Technology Advisor / Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Bill Gates",
+      "percentage": 4,
+      "color": "#E8734A",
+      "shareValue": 15200000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 65,
+      "color": "#4F86C6",
+      "shareValue": 247000000000
+    },
+    {
+      "name": "Public Float",
+      "percentage": 31,
+      "color": "#B0B0B0",
+      "shareValue": 117800000000
+    }
+  ],
+  "valuation": 380000000000,
+  "stockUnitValue": 42.0,
+  "notes": "Satya Nadella became Microsoft's third CEO on February 4, 2014, succeeding Steve Ballmer; Bill Gates stepped down as Chairman (replaced by John W. Thompson) to become Founder and Technology Advisor.",
+  "moatScore": 6,
+  "moatLabel": "Rebuilding",
+  "moatNote": "Nadella's CEO transition began a strategic pivot toward cloud (Azure) and mobile-first/cloud-first priorities, rebuilding the moat around infrastructure rather than just desktop software.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 28,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 20,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 12,
+      "color": "#EDC948"
+    },
+    {
+      "name": "Share Buybacks",
+      "percentage": 25,
+      "color": "#F28E2B"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 15,
+      "color": "#59A14F"
+    }
+  ]
+}

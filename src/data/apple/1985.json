@@ -1,0 +1,99 @@
+{
+  "company": "Apple Computer, Inc.",
+  "year": 1985,
+  "ceo": {
+    "name": "John Sculley",
+    "role": "President & Chief Executive Officer"
+  },
+  "board": [
+    {
+      "name": "A.C. (Mike) Markkula Jr.",
+      "role": "Chairman of the Board"
+    },
+    {
+      "name": "John Sculley",
+      "role": "President & CEO, Director"
+    },
+    {
+      "name": "Arthur Rock",
+      "role": "Director"
+    },
+    {
+      "name": "Henry E. Singleton",
+      "role": "Director"
+    },
+    {
+      "name": "Peter O. Crisp",
+      "role": "Director"
+    },
+    {
+      "name": "Philip S. Schlein",
+      "role": "Director"
+    },
+    {
+      "name": "Albert A. Eisenstat",
+      "role": "Director (Senior VP & General Counsel)"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Steven P. Jobs",
+      "percentage": 11,
+      "color": "#4E79A7",
+      "shareValue": 165000000
+    },
+    {
+      "name": "A.C. (Mike) Markkula Jr.",
+      "percentage": 9,
+      "color": "#F28E2B",
+      "shareValue": 135000000
+    },
+    {
+      "name": "Arthur Rock",
+      "percentage": 4,
+      "color": "#E15759",
+      "shareValue": 60000000
+    },
+    {
+      "name": "John Sculley",
+      "percentage": 1,
+      "color": "#B07AA1",
+      "shareValue": 15000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 35,
+      "color": "#76B7B2",
+      "shareValue": 525000000
+    },
+    {
+      "name": "Public Shareholders",
+      "percentage": 40,
+      "color": "#59A14F",
+      "shareValue": 600000000
+    }
+  ],
+  "valuation": 1500000000,
+  "stockUnitValue": 15,
+  "notes": "Estimated. After a power struggle, Steve Jobs was stripped of operational duties and resigned in Sept 1985 (though he retained much of his stake); Markkula became Chairman, Sculley CEO. Valuation declined amid the post-Mac slump. Figures are approximations, not exact proxy data.",
+  "moatScore": 3,
+  "moatLabel": "Weak",
+  "moatNote": "Internal turmoil, Jobs ousted; Mac sales disappoint expectations.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 35,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 25,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 40,
+      "color": "#EDC948"
+    }
+  ]
+}

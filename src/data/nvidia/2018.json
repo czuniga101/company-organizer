@@ -1,0 +1,84 @@
+{
+  "company": "NVIDIA Corporation",
+  "ticker": "NVDA",
+  "year": 2018,
+  "ceo": {
+    "name": "Jensen Huang",
+    "role": "President & CEO"
+  },
+  "board": [
+    {
+      "name": "Jensen Huang",
+      "role": "President & CEO"
+    },
+    {
+      "name": "Mark Stevens",
+      "role": "Director"
+    },
+    {
+      "name": "Tench Coxe",
+      "role": "Director"
+    },
+    {
+      "name": "Persis Drell",
+      "role": "Director"
+    },
+    {
+      "name": "Dawn Hudson",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Jensen Huang",
+      "percentage": 3.6,
+      "color": "#E8734A",
+      "shareValue": 5292000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 68,
+      "color": "#4F86C6",
+      "shareValue": 99960000000
+    },
+    {
+      "name": "Public Float",
+      "percentage": 28.4,
+      "color": "#B0B0B0",
+      "shareValue": 41748000000
+    }
+  ],
+  "valuation": 147000000000,
+  "stockUnitValue": 145.0,
+  "notes": "Datacenter and gaming GPU demand drove NVIDIA's valuation past $150B intraday before a crypto-mining demand crash hit the stock late in the year.",
+  "moatScore": 7,
+  "moatLabel": "Differentiated",
+  "moatNote": "Datacenter/AI demand diversified revenue beyond gaming, though crypto-driven demand swings showed continued cyclicality.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 35,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 15,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 10,
+      "color": "#EDC948"
+    },
+    {
+      "name": "Share Buybacks",
+      "percentage": 35,
+      "color": "#F28E2B"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 5,
+      "color": "#59A14F"
+    }
+  ]
+}

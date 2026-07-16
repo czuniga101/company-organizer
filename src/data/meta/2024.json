@@ -1,0 +1,84 @@
+{
+  "company": "Meta Platforms, Inc.",
+  "ticker": "META",
+  "year": 2024,
+  "ceo": {
+    "name": "Mark Zuckerberg",
+    "role": "Founder, Chairman & CEO"
+  },
+  "board": [
+    {
+      "name": "Mark Zuckerberg",
+      "role": "Founder, Chairman & CEO"
+    },
+    {
+      "name": "Marc Andreessen",
+      "role": "Director"
+    },
+    {
+      "name": "Peter Thiel",
+      "role": "Director"
+    },
+    {
+      "name": "Robert Kimmitt",
+      "role": "Director"
+    },
+    {
+      "name": "Tony Xu",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Mark Zuckerberg",
+      "percentage": 13.3,
+      "color": "#E8734A",
+      "shareValue": 186200000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 59.7,
+      "color": "#4F86C6",
+      "shareValue": 835800000000
+    },
+    {
+      "name": "Public Float",
+      "percentage": 27,
+      "color": "#B0B0B0",
+      "shareValue": 378000000000
+    }
+  ],
+  "valuation": 1400000000000,
+  "stockUnitValue": 560.0,
+  "notes": "Meta's market cap surpassed $1 trillion again in January 2024 and exceeded $1.4 trillion by September 2024, becoming the sixth US company to cross that threshold. Sheryl Sandberg announced in January 2024 she would not stand for re-election to the board.",
+  "moatScore": 8,
+  "moatLabel": "Strong",
+  "moatNote": "Cost discipline (the \"Year of Efficiency\") plus AI-driven ad-targeting improvements restored profitability and pushed market cap past $1.4 trillion.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 25,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 42,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 8,
+      "color": "#EDC948"
+    },
+    {
+      "name": "Share Buybacks",
+      "percentage": 23,
+      "color": "#F28E2B"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 2,
+      "color": "#59A14F"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "company": "Tesla, Inc.",
+  "year": 2020,
+  "ceo": {
+    "name": "Elon Musk",
+    "role": "CEO"
+  },
+  "board": [
+    {
+      "name": "Robyn Denholm",
+      "role": "Chair"
+    },
+    {
+      "name": "Elon Musk",
+      "role": "CEO & Director"
+    },
+    {
+      "name": "Kimbal Musk",
+      "role": "Director"
+    },
+    {
+      "name": "Larry Ellison",
+      "role": "Director"
+    },
+    {
+      "name": "Kathleen Wilson-Thompson",
+      "role": "Director"
+    },
+    {
+      "name": "JB Straubel",
+      "role": "Former CTO / Observer"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Elon Musk",
+      "percentage": 19,
+      "color": "#E8734A",
+      "shareValue": 127300000000
+    },
+    {
+      "name": "The Vanguard Group",
+      "percentage": 6,
+      "color": "#4F86C6",
+      "shareValue": 40200000000
+    },
+    {
+      "name": "BlackRock",
+      "percentage": 5,
+      "color": "#E15759",
+      "shareValue": 33500000000
+    },
+    {
+      "name": "Public / Retail Shareholders",
+      "percentage": 45,
+      "color": "#6ABF69",
+      "shareValue": 301500000000
+    },
+    {
+      "name": "Other Institutional",
+      "percentage": 18,
+      "color": "#F5C842",
+      "shareValue": 120600000000
+    },
+    {
+      "name": "Employees / Insiders",
+      "percentage": 7,
+      "color": "#B0B0B0",
+      "shareValue": 46900000000
+    }
+  ],
+  "valuation": 669000000000,
+  "stockUnitValue": 705.0,
+  "notes": "Stock rose ~743% in 2020; added to S&P 500 Dec 21. Model Y started US deliveries. Five Gigafactories operating or under construction. Bitcoin purchase in early 2021.",
+  "moatScore": 8,
+  "moatLabel": "Dominant",
+  "moatNote": "Scale, vertical integration, and software lead solidified; stock mania reflected long-term moat belief.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 20,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 65,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 15,
+      "color": "#EDC948"
+    }
+  ]
+}

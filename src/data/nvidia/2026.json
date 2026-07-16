@@ -1,0 +1,104 @@
+{
+  "company": "NVIDIA Corporation",
+  "ticker": "NVDA",
+  "year": 2026,
+  "ceo": {
+    "name": "Jensen Huang",
+    "role": "President & CEO"
+  },
+  "board": [
+    {
+      "name": "Jensen Huang",
+      "role": "President & CEO"
+    },
+    {
+      "name": "Mark Stevens",
+      "role": "Director"
+    },
+    {
+      "name": "Tench Coxe",
+      "role": "Director"
+    },
+    {
+      "name": "Persis Drell",
+      "role": "Director"
+    },
+    {
+      "name": "Dawn Hudson",
+      "role": "Director"
+    },
+    {
+      "name": "Mark Perry",
+      "role": "Director"
+    },
+    {
+      "name": "John O. Dabiri",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Jensen Huang",
+      "percentage": 3.3,
+      "color": "#E8734A",
+      "shareValue": 159000000000
+    },
+    {
+      "name": "Vanguard Group",
+      "percentage": 9.32,
+      "color": "#4F86C6",
+      "shareValue": 449000000000
+    },
+    {
+      "name": "BlackRock",
+      "percentage": 7.38,
+      "color": "#6ABF69",
+      "shareValue": 355600000000
+    },
+    {
+      "name": "Other Institutions / Insiders",
+      "percentage": 50.6,
+      "color": "#F5C842",
+      "shareValue": 2438500000000
+    },
+    {
+      "name": "Public Float",
+      "percentage": 29.4,
+      "color": "#B0B0B0",
+      "shareValue": 1416900000000
+    }
+  ],
+  "valuation": 4819000000000,
+  "stockUnitValue": 197.5,
+  "notes": "NVIDIA became the first company to reach a $4 trillion market cap in July 2025 and continued climbing through early 2026, reaching roughly $4.8T by mid-2026, driven by sustained hyperscaler and sovereign AI infrastructure spending on Blackwell/Rubin-generation GPUs.",
+  "moatScore": 9,
+  "moatLabel": "Dominant",
+  "moatNote": "NVIDIA remains the central AI infrastructure bottleneck for hyperscalers and sovereign AI buildouts, sustaining an unprecedented valuation despite rising competitive and regulatory pressure.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 25,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 30,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 10,
+      "color": "#EDC948"
+    },
+    {
+      "name": "Share Buybacks",
+      "percentage": 33,
+      "color": "#F28E2B"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 2,
+      "color": "#59A14F"
+    }
+  ]
+}

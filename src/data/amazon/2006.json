@@ -1,0 +1,70 @@
+{
+  "company": "Amazon.com, Inc.",
+  "ticker": "AMZN",
+  "year": 2006,
+  "ceo": {
+    "name": "Jeff Bezos",
+    "role": "Founder, President & CEO"
+  },
+  "board": [
+    {
+      "name": "Jeff Bezos",
+      "role": "Founder, President & CEO"
+    },
+    {
+      "name": "Tom Alberg",
+      "role": "Director"
+    },
+    {
+      "name": "L. John Doerr",
+      "role": "Director"
+    },
+    {
+      "name": "Scott Cook",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Jeff Bezos",
+      "percentage": 24,
+      "color": "#E8734A",
+      "shareValue": 3360000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 50,
+      "color": "#4F86C6",
+      "shareValue": 7000000000
+    },
+    {
+      "name": "Public Float",
+      "percentage": 26,
+      "color": "#B0B0B0",
+      "shareValue": 3640000000
+    }
+  ],
+  "valuation": 14000000000,
+  "stockUnitValue": 33.0,
+  "notes": "Amazon Web Services (AWS) launched in March 2006 with S3 and later EC2, beginning what would become Amazon's most profitable business segment.",
+  "moatScore": 5,
+  "moatLabel": "Building",
+  "moatNote": "AWS launch created a second, entirely distinct moat (cloud infrastructure) layered on top of Amazon's growing e-commerce logistics network.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 45,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 40,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 15,
+      "color": "#EDC948"
+    }
+  ]
+}

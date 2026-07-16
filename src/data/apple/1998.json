@@ -1,0 +1,77 @@
+{
+  "company": "Apple Computer, Inc.",
+  "year": 1998,
+  "ceo": {
+    "name": "Steven P. Jobs",
+    "role": "Interim Chief Executive Officer (iCEO)"
+  },
+  "board": [
+    {
+      "name": "Steven P. Jobs",
+      "role": "Interim CEO & Director"
+    },
+    {
+      "name": "Lawrence J. Ellison",
+      "role": "Director"
+    },
+    {
+      "name": "William V. Campbell",
+      "role": "Director"
+    },
+    {
+      "name": "Gareth C.C. Chang",
+      "role": "Director"
+    },
+    {
+      "name": "Edgar S. Woolard Jr.",
+      "role": "Director"
+    },
+    {
+      "name": "Jerome B. York",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Public Shareholders",
+      "percentage": 54,
+      "color": "#4C72B0",
+      "shareValue": 2700000000
+    },
+    {
+      "name": "Institutional Investors (aggregate)",
+      "percentage": 41,
+      "color": "#55A868",
+      "shareValue": 2050000000
+    },
+    {
+      "name": "Insiders & Directors",
+      "percentage": 5,
+      "color": "#C44E52",
+      "shareValue": 250000000
+    }
+  ],
+  "valuation": 5000000000,
+  "stockUnitValue": 30,
+  "notes": "iMac launch (Aug 1998) drove a turnaround; Apple returned to profitability. Market cap (~$5B) and ~$30 stock are approximate. Ownership split is estimated for a widely-held public company.",
+  "moatScore": 3,
+  "moatLabel": "Recovering",
+  "moatNote": "iMac reignites brand loyalty and design-led differentiation.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 35,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 20,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 45,
+      "color": "#EDC948"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "company": "Apple Computer, Inc.",
+  "year": 1987,
+  "ceo": {
+    "name": "John Sculley",
+    "role": "Chairman & Chief Executive Officer"
+  },
+  "board": [
+    {
+      "name": "John Sculley",
+      "role": "CEO & Director"
+    },
+    {
+      "name": "A.C. Markkula Jr.",
+      "role": "Vice Chairman"
+    },
+    {
+      "name": "Peter O. Crisp",
+      "role": "Director"
+    },
+    {
+      "name": "Henry E. Singleton",
+      "role": "Director"
+    },
+    {
+      "name": "Arthur Rock",
+      "role": "Director"
+    },
+    {
+      "name": "Albert A. Eisenstat",
+      "role": "Director & SVP"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Public Shareholders",
+      "percentage": 61,
+      "color": "#4E79A7",
+      "shareValue": 2196000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 26,
+      "color": "#F28E2B",
+      "shareValue": 936000000
+    },
+    {
+      "name": "A.C. Markkula Jr.",
+      "percentage": 8,
+      "color": "#59A14F",
+      "shareValue": 288000000
+    },
+    {
+      "name": "Insiders & Officers",
+      "percentage": 3,
+      "color": "#E15759",
+      "shareValue": 108000000
+    },
+    {
+      "name": "Arthur Rock",
+      "percentage": 2,
+      "color": "#B07AA1",
+      "shareValue": 72000000
+    }
+  ],
+  "valuation": 3600000000,
+  "stockUnitValue": 28,
+  "notes": "Estimated. Strong year prior to Oct 1987 market crash; valuation reflects mid-year strength. Ownership figures approximate, reflecting continued institutional accumulation and gradual dilution of Markkula's stake. Share price approximate.",
+  "moatScore": 4,
+  "moatLabel": "Niche-Strong",
+  "moatNote": "Desktop publishing + LaserWriter give Mac a defensible professional niche.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 30,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 10,
+      "color": "#59A14F"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 30,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 30,
+      "color": "#EDC948"
+    }
+  ]
+}

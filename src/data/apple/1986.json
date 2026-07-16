@@ -1,0 +1,89 @@
+{
+  "company": "Apple Computer, Inc.",
+  "year": 1986,
+  "ceo": {
+    "name": "John Sculley",
+    "role": "Chairman & Chief Executive Officer"
+  },
+  "board": [
+    {
+      "name": "John Sculley",
+      "role": "CEO & Director"
+    },
+    {
+      "name": "A.C. Markkula Jr.",
+      "role": "Vice Chairman"
+    },
+    {
+      "name": "Peter O. Crisp",
+      "role": "Director"
+    },
+    {
+      "name": "Henry E. Singleton",
+      "role": "Director"
+    },
+    {
+      "name": "Arthur Rock",
+      "role": "Director"
+    },
+    {
+      "name": "Albert A. Eisenstat",
+      "role": "Director & SVP"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Public Shareholders",
+      "percentage": 60,
+      "color": "#4E79A7",
+      "shareValue": 1320000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 25,
+      "color": "#F28E2B",
+      "shareValue": 550000000
+    },
+    {
+      "name": "A.C. Markkula Jr.",
+      "percentage": 9,
+      "color": "#59A14F",
+      "shareValue": 198000000
+    },
+    {
+      "name": "Insiders & Officers",
+      "percentage": 4,
+      "color": "#E15759",
+      "shareValue": 88000000
+    },
+    {
+      "name": "Arthur Rock",
+      "percentage": 2,
+      "color": "#B07AA1",
+      "shareValue": 44000000
+    }
+  ],
+  "valuation": 2200000000,
+  "stockUnitValue": 18.5,
+  "notes": "Estimated. Apple Computer, Inc. (public since 1980 IPO). Sculley CEO since 1983; Jobs departed 1985. Ownership split is an approximation based on post-IPO dispersed ownership and Markkula's known large founder/early-investor stake. Market cap and share price approximate, not split-adjusted to modern terms.",
+  "moatScore": 3,
+  "moatLabel": "Weak",
+  "moatNote": "Niche GUI player; IBM-compatible PCs dominate volume market.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 35,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 25,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 40,
+      "color": "#EDC948"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "company": "Microsoft Corporation",
+  "ticker": "MSFT",
+  "year": 2007,
+  "ceo": {
+    "name": "Steve Ballmer",
+    "role": "CEO"
+  },
+  "board": [
+    {
+      "name": "Bill Gates",
+      "role": "Chairman"
+    },
+    {
+      "name": "Steve Ballmer",
+      "role": "CEO"
+    },
+    {
+      "name": "James Cash",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Bill Gates",
+      "percentage": 9,
+      "color": "#E8734A",
+      "shareValue": 27900000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 60,
+      "color": "#4F86C6",
+      "shareValue": 186000000000
+    },
+    {
+      "name": "Public Float",
+      "percentage": 31,
+      "color": "#B0B0B0",
+      "shareValue": 96100000000
+    }
+  ],
+  "valuation": 310000000000,
+  "stockUnitValue": 35.0,
+  "notes": "Windows Vista and Office 2007 launched, though Vista received a mixed reception; Microsoft's market cap held around $300B through the mid-2000s.",
+  "moatScore": 6,
+  "moatLabel": "Tested",
+  "moatNote": "Vista's mixed reception and the rise of Google and Apple's iPhone (2007) began eroding Microsoft's perceived innovation edge, even as Windows/Office cash flows stayed strong.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 30,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 15,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 15,
+      "color": "#EDC948"
+    },
+    {
+      "name": "Share Buybacks",
+      "percentage": 30,
+      "color": "#F28E2B"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 10,
+      "color": "#59A14F"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "company": "Alphabet Inc.",
+  "ticker": "GOOGL",
+  "year": 2015,
+  "ceo": {
+    "name": "Larry Page",
+    "role": "Co-Founder & CEO of Alphabet"
+  },
+  "board": [
+    {
+      "name": "Larry Page",
+      "role": "CEO, Alphabet"
+    },
+    {
+      "name": "Sergey Brin",
+      "role": "President, Alphabet"
+    },
+    {
+      "name": "Sundar Pichai",
+      "role": "CEO, Google"
+    },
+    {
+      "name": "Eric Schmidt",
+      "role": "Executive Chairman"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Larry Page",
+      "percentage": 15,
+      "color": "#E8734A",
+      "shareValue": 76500000000
+    },
+    {
+      "name": "Sergey Brin",
+      "percentage": 15,
+      "color": "#4F86C6",
+      "shareValue": 76500000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 47,
+      "color": "#6ABF69",
+      "shareValue": 239700000000
+    },
+    {
+      "name": "Public Float",
+      "percentage": 23,
+      "color": "#B0B0B0",
+      "shareValue": 117300000000
+    }
+  ],
+  "valuation": 510000000000,
+  "stockUnitValue": 758.0,
+  "notes": "Google restructured into Alphabet Inc., a new holding company, completed October 2, 2015. Sundar Pichai became CEO of Google, while Larry Page became CEO of Alphabet and Sergey Brin became President.",
+  "moatScore": 8,
+  "moatLabel": "Strong",
+  "moatNote": "The Alphabet restructuring formalized separating the core profitable Google business from speculative \"Other Bets,\" without diminishing Google's core search/ads moat.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 35,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 25,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 15,
+      "color": "#EDC948"
+    },
+    {
+      "name": "Share Buybacks",
+      "percentage": 25,
+      "color": "#F28E2B"
+    }
+  ]
+}

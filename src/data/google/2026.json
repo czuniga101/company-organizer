@@ -1,0 +1,82 @@
+{
+  "company": "Alphabet Inc.",
+  "ticker": "GOOGL",
+  "year": 2026,
+  "ceo": {
+    "name": "Sundar Pichai",
+    "role": "CEO of Alphabet & Google"
+  },
+  "board": [
+    {
+      "name": "Sundar Pichai",
+      "role": "CEO, Alphabet & Google"
+    },
+    {
+      "name": "John Hennessy",
+      "role": "Chairman"
+    },
+    {
+      "name": "Ruth Porat",
+      "role": "President & Chief Investment Officer"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Larry Page",
+      "percentage": 9.8,
+      "color": "#E8734A",
+      "shareValue": 434860000000
+    },
+    {
+      "name": "Sergey Brin",
+      "percentage": 9.8,
+      "color": "#4F86C6",
+      "shareValue": 434860000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 56.4,
+      "color": "#6ABF69",
+      "shareValue": 2502468000000
+    },
+    {
+      "name": "Public Float",
+      "percentage": 24,
+      "color": "#B0B0B0",
+      "shareValue": 1064880000000
+    }
+  ],
+  "valuation": 4437000000000,
+  "stockUnitValue": 365.0,
+  "notes": "Alphabet's market cap reached roughly $4.437 trillion by July 2026, making it the world's third most valuable company, driven by continued AI (Gemini), Cloud, and Search/YouTube advertising strength.",
+  "moatScore": 9,
+  "moatLabel": "Dominant",
+  "moatNote": "Alphabet's combined Search, Cloud, YouTube, and AI (Gemini) businesses reinforce a broad and durable competitive position, sustaining its position among the world's most valuable companies.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 18,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 48,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 8,
+      "color": "#EDC948"
+    },
+    {
+      "name": "Share Buybacks",
+      "percentage": 24,
+      "color": "#F28E2B"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 2,
+      "color": "#59A14F"
+    }
+  ]
+}

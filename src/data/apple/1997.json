@@ -1,0 +1,82 @@
+{
+  "company": "Apple Computer, Inc.",
+  "year": 1997,
+  "ceo": {
+    "name": "Steven P. Jobs",
+    "role": "Interim Chief Executive Officer (iCEO)"
+  },
+  "board": [
+    {
+      "name": "Steven P. Jobs",
+      "role": "Interim CEO & Director"
+    },
+    {
+      "name": "Lawrence J. Ellison",
+      "role": "Director"
+    },
+    {
+      "name": "William V. Campbell",
+      "role": "Director"
+    },
+    {
+      "name": "Gareth C.C. Chang",
+      "role": "Director"
+    },
+    {
+      "name": "Edgar S. Woolard Jr.",
+      "role": "Director"
+    },
+    {
+      "name": "Jerome B. York",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Public Shareholders",
+      "percentage": 56,
+      "color": "#4C72B0",
+      "shareValue": 1680000000
+    },
+    {
+      "name": "Institutional Investors (aggregate)",
+      "percentage": 39,
+      "color": "#55A868",
+      "shareValue": 1170000000
+    },
+    {
+      "name": "Insiders & Directors",
+      "percentage": 5,
+      "color": "#C44E52",
+      "shareValue": 150000000
+    }
+  ],
+  "valuation": 3000000000,
+  "stockUnitValue": 13.5,
+  "notes": "Amelio ousted July 1997; Jobs named interim CEO Sept 1997 and reconstituted the board (Markkula departed). Stock hit ~$13 lows; market cap recovered toward ~$3B with the Microsoft $150M investment. Ownership is estimated.",
+  "moatScore": 1,
+  "moatLabel": "Crisis",
+  "moatNote": "Record losses; Microsoft invests $150M as a lifeline; moat near zero.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 40,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Acquisitions",
+      "percentage": 10,
+      "color": "#E15759"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 15,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 35,
+      "color": "#EDC948"
+    }
+  ]
+}

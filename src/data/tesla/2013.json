@@ -1,0 +1,93 @@
+{
+  "company": "Tesla Motors, Inc.",
+  "year": 2013,
+  "ceo": {
+    "name": "Elon Musk",
+    "role": "CEO"
+  },
+  "board": [
+    {
+      "name": "Elon Musk",
+      "role": "CEO & Chairman"
+    },
+    {
+      "name": "Antonio Gracias",
+      "role": "Director"
+    },
+    {
+      "name": "Ira Ehrenpreis",
+      "role": "Director"
+    },
+    {
+      "name": "Brad Buss",
+      "role": "Director"
+    },
+    {
+      "name": "Robyn Denholm",
+      "role": "Director"
+    },
+    {
+      "name": "Stephen Jurvetson",
+      "role": "Director"
+    },
+    {
+      "name": "Kimbal Musk",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Elon Musk",
+      "percentage": 24,
+      "color": "#E8734A",
+      "shareValue": 4800000000
+    },
+    {
+      "name": "The Vanguard Group",
+      "percentage": 5,
+      "color": "#4F86C6",
+      "shareValue": 1000000000
+    },
+    {
+      "name": "Public / Retail Shareholders",
+      "percentage": 42,
+      "color": "#6ABF69",
+      "shareValue": 8400000000
+    },
+    {
+      "name": "Other Institutional",
+      "percentage": 22,
+      "color": "#F5C842",
+      "shareValue": 4400000000
+    },
+    {
+      "name": "Employees / Insiders",
+      "percentage": 7,
+      "color": "#B0B0B0",
+      "shareValue": 1400000000
+    }
+  ],
+  "valuation": 20000000000,
+  "stockUnitValue": 150.0,
+  "notes": "Stock surged ~344% in 2013; first-ever profitable quarter (Q1 2013). DOE loan fully repaid ahead of schedule.",
+  "moatScore": 6,
+  "moatLabel": "Strong",
+  "moatNote": "First profitable quarter; brand and software moat clearly developing; stock surged.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 30,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 45,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 25,
+      "color": "#EDC948"
+    }
+  ]
+}

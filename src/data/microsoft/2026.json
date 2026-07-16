@@ -1,0 +1,88 @@
+{
+  "company": "Microsoft Corporation",
+  "ticker": "MSFT",
+  "year": 2026,
+  "ceo": {
+    "name": "Satya Nadella",
+    "role": "Chairman & CEO"
+  },
+  "board": [
+    {
+      "name": "Satya Nadella",
+      "role": "Chairman & CEO"
+    },
+    {
+      "name": "John W. Thompson",
+      "role": "Lead Independent Director"
+    },
+    {
+      "name": "Reid Hoffman",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Steve Ballmer",
+      "percentage": 4.4,
+      "color": "#E8734A",
+      "shareValue": 124960000000
+    },
+    {
+      "name": "Vanguard Group",
+      "percentage": 9.6,
+      "color": "#4F86C6",
+      "shareValue": 272640000000
+    },
+    {
+      "name": "BlackRock",
+      "percentage": 8.1,
+      "color": "#6ABF69",
+      "shareValue": 230040000000
+    },
+    {
+      "name": "State Street",
+      "percentage": 4.2,
+      "color": "#F5C842",
+      "shareValue": 119280000000
+    },
+    {
+      "name": "Other Institutions / Public Float",
+      "percentage": 73.7,
+      "color": "#B0B0B0",
+      "shareValue": 2093080000000
+    }
+  ],
+  "valuation": 2840000000000,
+  "stockUnitValue": 382.0,
+  "notes": "Microsoft's market cap pulled back from its $4T peak (October 2025) to roughly $2.84T by July 2026, after touching $3T again in early March 2026, amid broader AI-capex-spending scrutiny across the sector.",
+  "moatScore": 8,
+  "moatLabel": "Strong (Tested)",
+  "moatNote": "A pullback from the $4T peak reflected broader market scrutiny of AI capital-expenditure sustainability, though Microsoft's core Azure/Office moat remained intact.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 18,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 48,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 7,
+      "color": "#EDC948"
+    },
+    {
+      "name": "Share Buybacks",
+      "percentage": 15,
+      "color": "#F28E2B"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 12,
+      "color": "#59A14F"
+    }
+  ]
+}

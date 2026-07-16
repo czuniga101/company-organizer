@@ -1,0 +1,72 @@
+{
+  "company": "Toyota Motor Corporation",
+  "year": 1997,
+  "ceo": {
+    "name": "Hiroshi Okuda",
+    "role": "President"
+  },
+  "board": [
+    {
+      "name": "Hiroshi Okuda",
+      "role": "President"
+    },
+    {
+      "name": "Shoichiro Toyoda",
+      "role": "Chairman"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Toyoda Family / Group Companies",
+      "percentage": 32,
+      "color": "#E8734A",
+      "shareValue": 28800000000
+    },
+    {
+      "name": "Foreign Institutional Investors",
+      "percentage": 20,
+      "color": "#4F86C6",
+      "shareValue": 18000000000
+    },
+    {
+      "name": "Domestic Institutional / Banks",
+      "percentage": 38,
+      "color": "#6ABF69",
+      "shareValue": 34200000000
+    },
+    {
+      "name": "Other",
+      "percentage": 10,
+      "color": "#B0B0B0",
+      "shareValue": 9000000000
+    }
+  ],
+  "valuation": 90000000000,
+  "stockUnitValue": null,
+  "notes": "Toyota Prius launched December 10, 1997 \u2014 the world's first mass-produced hybrid gasoline-electric vehicle, a defining long-term technology bet that took years to become profitable.",
+  "moatScore": 7,
+  "moatLabel": "Differentiated",
+  "moatNote": "Prius gave Toyota a multi-decade head start in hybrid powertrain technology and patents, a durable technical moat.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 25,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 45,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 10,
+      "color": "#EDC948"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 20,
+      "color": "#59A14F"
+    }
+  ]
+}

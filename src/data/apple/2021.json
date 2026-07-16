@@ -1,0 +1,111 @@
+{
+  "company": "Apple Inc.",
+  "year": 2021,
+  "ceo": {
+    "name": "Tim Cook",
+    "role": "Chief Executive Officer"
+  },
+  "board": [
+    {
+      "name": "Arthur D. Levinson",
+      "role": "Chairman"
+    },
+    {
+      "name": "Tim Cook",
+      "role": "Director & CEO"
+    },
+    {
+      "name": "James A. Bell",
+      "role": "Independent Director"
+    },
+    {
+      "name": "Albert Gore Jr.",
+      "role": "Independent Director"
+    },
+    {
+      "name": "Andrea Jung",
+      "role": "Independent Director"
+    },
+    {
+      "name": "Monica C. Lozano",
+      "role": "Independent Director"
+    },
+    {
+      "name": "Ronald D. Sugar",
+      "role": "Independent Director"
+    },
+    {
+      "name": "Susan L. Wagner",
+      "role": "Independent Director"
+    },
+    {
+      "name": "Alex Gorsky",
+      "role": "Independent Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "The Vanguard Group",
+      "percentage": 8,
+      "color": "#C0392B",
+      "shareValue": 232000000000
+    },
+    {
+      "name": "BlackRock Inc.",
+      "percentage": 6.5,
+      "color": "#2C3E50",
+      "shareValue": 188500000000
+    },
+    {
+      "name": "Berkshire Hathaway",
+      "percentage": 5.6,
+      "color": "#27AE60",
+      "shareValue": 162400000000
+    },
+    {
+      "name": "State Street Corp.",
+      "percentage": 3.8,
+      "color": "#8E44AD",
+      "shareValue": 110200000000
+    },
+    {
+      "name": "Public Shareholders & Other Institutions",
+      "percentage": 76.1,
+      "color": "#F39C12",
+      "shareValue": 2206900000000
+    }
+  ],
+  "valuation": 2900000000000,
+  "stockUnitValue": 177,
+  "notes": "Market cap and ~$177 year-end share price are approximate (Apple FY2021). Ownership percentages estimated from 13F filings; figures rounded.",
+  "moatScore": 10,
+  "moatLabel": "Fortress",
+  "moatNote": "Vertical silicon integration (M1/A-series) widens the technical moat.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 15,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Share Buybacks",
+      "percentage": 50,
+      "color": "#F28E2B"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 12,
+      "color": "#59A14F"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 18,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 5,
+      "color": "#EDC948"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "company": "Amazon.com, Inc.",
+  "ticker": "AMZN",
+  "year": 2021,
+  "ceo": {
+    "name": "Andy Jassy",
+    "role": "President & CEO"
+  },
+  "board": [
+    {
+      "name": "Jeff Bezos",
+      "role": "Executive Chair"
+    },
+    {
+      "name": "Andy Jassy",
+      "role": "President & CEO"
+    },
+    {
+      "name": "Jamie Gorelick",
+      "role": "Director"
+    },
+    {
+      "name": "Indra Nooyi",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Jeff Bezos",
+      "percentage": 10.3,
+      "color": "#E8734A",
+      "shareValue": 178000000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 63,
+      "color": "#4F86C6",
+      "shareValue": 1090000000000
+    },
+    {
+      "name": "Public Float",
+      "percentage": 26.7,
+      "color": "#B0B0B0",
+      "shareValue": 462000000000
+    }
+  ],
+  "valuation": 1730000000000,
+  "stockUnitValue": 3350.0,
+  "notes": "Andy Jassy became CEO on July 5, 2021 \u2014 the company's 27th anniversary \u2014 as Jeff Bezos transitioned to Executive Chair, per Amazon's February 2021 announcement.",
+  "moatScore": 9,
+  "moatLabel": "Dominant",
+  "moatNote": "AWS remained the clear cloud market share leader while Prime/logistics scale continued to compound, even as CEO transition began.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 32,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 58,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 10,
+      "color": "#EDC948"
+    }
+  ]
+}

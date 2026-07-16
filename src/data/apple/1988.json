@@ -1,0 +1,94 @@
+{
+  "company": "Apple Computer, Inc.",
+  "year": 1988,
+  "ceo": {
+    "name": "John Sculley",
+    "role": "Chairman & Chief Executive Officer"
+  },
+  "board": [
+    {
+      "name": "John Sculley",
+      "role": "CEO & Director"
+    },
+    {
+      "name": "A.C. Markkula Jr.",
+      "role": "Vice Chairman"
+    },
+    {
+      "name": "Peter O. Crisp",
+      "role": "Director"
+    },
+    {
+      "name": "Henry E. Singleton",
+      "role": "Director"
+    },
+    {
+      "name": "Arthur Rock",
+      "role": "Director"
+    },
+    {
+      "name": "Albert A. Eisenstat",
+      "role": "Director & SVP"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Public Shareholders",
+      "percentage": 60,
+      "color": "#4E79A7",
+      "shareValue": 2640000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 28,
+      "color": "#F28E2B",
+      "shareValue": 1232000000
+    },
+    {
+      "name": "A.C. Markkula Jr.",
+      "percentage": 7,
+      "color": "#59A14F",
+      "shareValue": 308000000
+    },
+    {
+      "name": "Insiders & Officers",
+      "percentage": 3,
+      "color": "#E15759",
+      "shareValue": 132000000
+    },
+    {
+      "name": "Arthur Rock",
+      "percentage": 2,
+      "color": "#B07AA1",
+      "shareValue": 88000000
+    }
+  ],
+  "valuation": 4400000000,
+  "stockUnitValue": 36,
+  "notes": "Estimated. Recovery and growth following the 1987 crash. Ownership approximated with rising institutional holdings. Share price and market cap approximate; not adjusted for later stock splits.",
+  "moatScore": 4,
+  "moatLabel": "Niche-Strong",
+  "moatNote": "Strong margins in publishing/education niches; still small overall share.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 30,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 10,
+      "color": "#59A14F"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 30,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 30,
+      "color": "#EDC948"
+    }
+  ]
+}

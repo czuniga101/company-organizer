@@ -1,0 +1,72 @@
+{
+  "company": "NVIDIA Corporation",
+  "ticker": "NVDA",
+  "year": 1999,
+  "ceo": {
+    "name": "Jensen Huang",
+    "role": "President & CEO"
+  },
+  "board": [
+    {
+      "name": "Jensen Huang",
+      "role": "President & CEO"
+    },
+    {
+      "name": "Mark Stevens",
+      "role": "Director (Sequoia Capital)"
+    },
+    {
+      "name": "A. Brooke Seawell",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Jensen Huang",
+      "percentage": 12,
+      "color": "#E8734A",
+      "shareValue": 144000000
+    },
+    {
+      "name": "Sequoia Capital",
+      "percentage": 15,
+      "color": "#4F86C6",
+      "shareValue": 180000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 40,
+      "color": "#6ABF69",
+      "shareValue": 480000000
+    },
+    {
+      "name": "Public Float",
+      "percentage": 33,
+      "color": "#B0B0B0",
+      "shareValue": 396000000
+    }
+  ],
+  "valuation": 1200000000,
+  "stockUnitValue": 12.0,
+  "notes": "NVIDIA IPO'd on Nasdaq January 22, 1999 at $12/share. Later that year it launched the GeForce 256, marketed as the world's first \"GPU.\"",
+  "moatScore": 3,
+  "moatLabel": "Emerging",
+  "moatNote": "GeForce 256 and the IPO established NVIDIA as a leading PC graphics chip maker, but the GPU market was still fragmented and competitive.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 55,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 20,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 25,
+      "color": "#EDC948"
+    }
+  ]
+}

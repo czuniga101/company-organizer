@@ -1,0 +1,94 @@
+{
+  "company": "Apple Computer, Inc.",
+  "year": 1989,
+  "ceo": {
+    "name": "John Sculley",
+    "role": "Chairman & Chief Executive Officer"
+  },
+  "board": [
+    {
+      "name": "John Sculley",
+      "role": "CEO & Director"
+    },
+    {
+      "name": "A.C. Markkula Jr.",
+      "role": "Vice Chairman"
+    },
+    {
+      "name": "Peter O. Crisp",
+      "role": "Director"
+    },
+    {
+      "name": "Henry E. Singleton",
+      "role": "Director"
+    },
+    {
+      "name": "Arthur Rock",
+      "role": "Director"
+    },
+    {
+      "name": "Albert A. Eisenstat",
+      "role": "Director & SVP"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Public Shareholders",
+      "percentage": 59,
+      "color": "#4E79A7",
+      "shareValue": 2655000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 30,
+      "color": "#F28E2B",
+      "shareValue": 1350000000
+    },
+    {
+      "name": "A.C. Markkula Jr.",
+      "percentage": 6,
+      "color": "#59A14F",
+      "shareValue": 270000000
+    },
+    {
+      "name": "Insiders & Officers",
+      "percentage": 3,
+      "color": "#E15759",
+      "shareValue": 135000000
+    },
+    {
+      "name": "Arthur Rock",
+      "percentage": 2,
+      "color": "#B07AA1",
+      "shareValue": 90000000
+    }
+  ],
+  "valuation": 4500000000,
+  "stockUnitValue": 37,
+  "notes": "Estimated. Margin pressures emerging amid PC competition. Ownership approximated with continued institutional growth and founder-investor dilution. Valuation and share price approximate.",
+  "moatScore": 4,
+  "moatLabel": "Niche-Strong",
+  "moatNote": "\"First golden age\" of Macintosh; loyal niche but high prices limit growth.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 30,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 10,
+      "color": "#59A14F"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 30,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 30,
+      "color": "#EDC948"
+    }
+  ]
+}

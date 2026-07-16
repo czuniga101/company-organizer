@@ -1,0 +1,71 @@
+{
+  "company": "Microsoft Corporation",
+  "ticker": "MSFT",
+  "year": 2000,
+  "ceo": {
+    "name": "Steve Ballmer",
+    "role": "President & CEO"
+  },
+  "board": [
+    {
+      "name": "Bill Gates",
+      "role": "Chairman & Chief Software Architect"
+    },
+    {
+      "name": "Steve Ballmer",
+      "role": "President & CEO"
+    },
+    {
+      "name": "Paul Allen",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Bill Gates",
+      "percentage": 15,
+      "color": "#E8734A",
+      "shareValue": 82500000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 55,
+      "color": "#4F86C6",
+      "shareValue": 302500000000
+    },
+    {
+      "name": "Public Float",
+      "percentage": 30,
+      "color": "#B0B0B0",
+      "shareValue": 165000000000
+    }
+  ],
+  "valuation": 550000000000,
+  "stockUnitValue": 58.0,
+  "notes": "Steve Ballmer became CEO in January 2000 as Bill Gates transitioned to Chairman and Chief Software Architect; the U.S. v. Microsoft antitrust case concluded with a ruling against the company that year.",
+  "moatScore": 7,
+  "moatLabel": "Strong (Tested)",
+  "moatNote": "Windows/Office dominance remained intact, but the US v. Microsoft antitrust ruling exposed real regulatory and reputational risk to the platform moat.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 35,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 15,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 30,
+      "color": "#EDC948"
+    },
+    {
+      "name": "Share Buybacks",
+      "percentage": 20,
+      "color": "#F28E2B"
+    }
+  ]
+}

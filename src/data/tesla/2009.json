@@ -1,0 +1,85 @@
+{
+  "company": "Tesla Motors, Inc.",
+  "year": 2009,
+  "ceo": {
+    "name": "Elon Musk",
+    "role": "CEO"
+  },
+  "board": [
+    {
+      "name": "Elon Musk",
+      "role": "CEO & Chairman"
+    },
+    {
+      "name": "Antonio Gracias",
+      "role": "Director"
+    },
+    {
+      "name": "Ira Ehrenpreis",
+      "role": "Director"
+    },
+    {
+      "name": "Brad Buss",
+      "role": "Director"
+    },
+    {
+      "name": "Robyn Denholm",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Elon Musk",
+      "percentage": 25,
+      "color": "#E8734A",
+      "shareValue": 62500000
+    },
+    {
+      "name": "Daimler AG",
+      "percentage": 9,
+      "color": "#4F86C6",
+      "shareValue": 22500000
+    },
+    {
+      "name": "VCs / Institutional",
+      "percentage": 46,
+      "color": "#6ABF69",
+      "shareValue": 115000000
+    },
+    {
+      "name": "Founders / Employees",
+      "percentage": 12,
+      "color": "#F5C842",
+      "shareValue": 30000000
+    },
+    {
+      "name": "Other",
+      "percentage": 8,
+      "color": "#B0B0B0",
+      "shareValue": 20000000
+    }
+  ],
+  "valuation": 250000000,
+  "stockUnitValue": null,
+  "notes": "Daimler invested $50M for a ~10% stake (valuing Tesla at ~$550M); DOE loan of $465M approved. Company stabilized after near-death 2008.",
+  "moatScore": 3,
+  "moatLabel": "Recovering",
+  "moatNote": "Daimler + DOE loan provided stability; Model S development underway.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 45,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 30,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 25,
+      "color": "#EDC948"
+    }
+  ]
+}

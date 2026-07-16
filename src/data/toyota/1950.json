@@ -1,0 +1,61 @@
+{
+  "company": "Toyota Motor Co., Ltd.",
+  "year": 1950,
+  "ceo": {
+    "name": "Taizo Ishida",
+    "role": "President"
+  },
+  "board": [
+    {
+      "name": "Taizo Ishida",
+      "role": "President"
+    },
+    {
+      "name": "Kiichiro Toyoda",
+      "role": "Resigned amid labor crisis"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Toyoda Family",
+      "percentage": 40,
+      "color": "#E8734A",
+      "shareValue": 2000000
+    },
+    {
+      "name": "Banks / Keiretsu",
+      "percentage": 45,
+      "color": "#4F86C6",
+      "shareValue": 2250000
+    },
+    {
+      "name": "Other",
+      "percentage": 15,
+      "color": "#B0B0B0",
+      "shareValue": 750000
+    }
+  ],
+  "valuation": 5000000,
+  "stockUnitValue": null,
+  "notes": "Severe post-war financial crisis forced layoffs and Kiichiro Toyoda's resignation as president. Toyota Motor Sales Co. spun off as a separate entity the same year, with bank-led restructuring.",
+  "moatScore": 2,
+  "moatLabel": "At Risk",
+  "moatNote": "Near-bankruptcy and labor crisis forced founder's resignation; survival uncertain without bank-led restructuring.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 15,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 50,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 35,
+      "color": "#EDC948"
+    }
+  ]
+}

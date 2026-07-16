@@ -1,0 +1,92 @@
+{
+  "company": "NVIDIA Corporation",
+  "ticker": "NVDA",
+  "year": 2024,
+  "ceo": {
+    "name": "Jensen Huang",
+    "role": "President & CEO"
+  },
+  "board": [
+    {
+      "name": "Jensen Huang",
+      "role": "President & CEO"
+    },
+    {
+      "name": "Mark Stevens",
+      "role": "Director"
+    },
+    {
+      "name": "Tench Coxe",
+      "role": "Director"
+    },
+    {
+      "name": "Persis Drell",
+      "role": "Director"
+    },
+    {
+      "name": "Dawn Hudson",
+      "role": "Director"
+    },
+    {
+      "name": "Mark Perry",
+      "role": "Director"
+    },
+    {
+      "name": "John O. Dabiri",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Jensen Huang",
+      "percentage": 3.5,
+      "color": "#E8734A",
+      "shareValue": 111300000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 64,
+      "color": "#4F86C6",
+      "shareValue": 2035200000000
+    },
+    {
+      "name": "Public Float",
+      "percentage": 32.5,
+      "color": "#B0B0B0",
+      "shareValue": 1034550000000
+    }
+  ],
+  "valuation": 3180000000000,
+  "stockUnitValue": 134.29,
+  "notes": "NVIDIA crossed $2T market cap on Feb 23, 2024 and $3T on June 5, 2024, briefly becoming the world's most valuable company. A 10-for-1 stock split took effect June 7, 2024, driven by explosive Hopper/Blackwell-architecture AI datacenter GPU demand.",
+  "moatScore": 9,
+  "moatLabel": "Dominant",
+  "moatNote": "CUDA software lock-in plus Hopper/Blackwell hardware leadership made NVIDIA the indispensable AI infrastructure supplier to every major hyperscaler.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 25,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 20,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 10,
+      "color": "#EDC948"
+    },
+    {
+      "name": "Share Buybacks",
+      "percentage": 42,
+      "color": "#F28E2B"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 3,
+      "color": "#59A14F"
+    }
+  ]
+}

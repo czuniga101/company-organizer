@@ -1,0 +1,61 @@
+{
+  "company": "Toyota Motor Co., Ltd.",
+  "year": 1957,
+  "ceo": {
+    "name": "Fukio Nakagawa",
+    "role": "President"
+  },
+  "board": [
+    {
+      "name": "Fukio Nakagawa",
+      "role": "President"
+    },
+    {
+      "name": "Taizo Ishida",
+      "role": "Chairman"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Toyoda Family / Group Companies",
+      "percentage": 50,
+      "color": "#E8734A",
+      "shareValue": 10000000
+    },
+    {
+      "name": "Banks / Institutional",
+      "percentage": 40,
+      "color": "#4F86C6",
+      "shareValue": 8000000
+    },
+    {
+      "name": "Other",
+      "percentage": 10,
+      "color": "#B0B0B0",
+      "shareValue": 2000000
+    }
+  ],
+  "valuation": 20000000,
+  "stockUnitValue": null,
+  "notes": "Toyota began exporting to the United States in 1957 with the Toyopet Crown, its first major step toward becoming a global automaker (though the Crown initially sold poorly in the US market).",
+  "moatScore": 3,
+  "moatLabel": "Building",
+  "moatNote": "First US export attempt (Toyopet Crown) was a commercial flop, but established the long-term internationalization strategy.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 20,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 55,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 25,
+      "color": "#EDC948"
+    }
+  ]
+}

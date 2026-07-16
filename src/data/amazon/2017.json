@@ -1,0 +1,75 @@
+{
+  "company": "Amazon.com, Inc.",
+  "ticker": "AMZN",
+  "year": 2017,
+  "ceo": {
+    "name": "Jeff Bezos",
+    "role": "Founder, President & CEO"
+  },
+  "board": [
+    {
+      "name": "Jeff Bezos",
+      "role": "Founder, President & CEO"
+    },
+    {
+      "name": "Tom Alberg",
+      "role": "Director"
+    },
+    {
+      "name": "Jamie Gorelick",
+      "role": "Director"
+    },
+    {
+      "name": "Indra Nooyi",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Jeff Bezos",
+      "percentage": 17,
+      "color": "#E8734A",
+      "shareValue": 76500000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 58,
+      "color": "#4F86C6",
+      "shareValue": 261000000000
+    },
+    {
+      "name": "Public Float",
+      "percentage": 25,
+      "color": "#B0B0B0",
+      "shareValue": 112500000000
+    }
+  ],
+  "valuation": 450000000000,
+  "stockUnitValue": 950.0,
+  "notes": "Amazon acquired Whole Foods Market for $13.7B in 2017, its largest acquisition to date, expanding into physical grocery retail.",
+  "moatScore": 7,
+  "moatLabel": "Differentiated",
+  "moatNote": "Whole Foods acquisition extended Amazon's reach into physical retail and groceries, broadening its ecosystem lock-in alongside Prime and AWS.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 30,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 45,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 5,
+      "color": "#EDC948"
+    },
+    {
+      "name": "Acquisitions",
+      "percentage": 20,
+      "color": "#E15759"
+    }
+  ]
+}

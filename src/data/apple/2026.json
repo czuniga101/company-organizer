@@ -1,0 +1,123 @@
+{
+  "company": "Apple Inc.",
+  "year": 2026,
+  "ceo": {
+    "name": "John Ternus",
+    "role": "Chief Executive Officer"
+  },
+  "board": [
+    {
+      "name": "Arthur D. Levinson",
+      "role": "Chairman of the Board"
+    },
+    {
+      "name": "Tim Cook",
+      "role": "Director & Executive Chairman"
+    },
+    {
+      "name": "John Ternus",
+      "role": "Director & CEO"
+    },
+    {
+      "name": "Wanda Austin",
+      "role": "Independent Director"
+    },
+    {
+      "name": "Alex Gorsky",
+      "role": "Independent Director"
+    },
+    {
+      "name": "Andrea Jung",
+      "role": "Independent Director"
+    },
+    {
+      "name": "Monica Lozano",
+      "role": "Independent Director"
+    },
+    {
+      "name": "Ronald D. Sugar",
+      "role": "Independent Director"
+    },
+    {
+      "name": "Susan L. Wagner",
+      "role": "Independent Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Public & Retail Shareholders",
+      "percentage": 60,
+      "color": "#4E79A7",
+      "shareValue": 1980000000000
+    },
+    {
+      "name": "The Vanguard Group",
+      "percentage": 8.5,
+      "color": "#F28E2B",
+      "shareValue": 280500000000
+    },
+    {
+      "name": "BlackRock",
+      "percentage": 7,
+      "color": "#E15759",
+      "shareValue": 231000000000
+    },
+    {
+      "name": "Berkshire Hathaway",
+      "percentage": 5,
+      "color": "#76B7B2",
+      "shareValue": 165000000000
+    },
+    {
+      "name": "State Street Global Advisors",
+      "percentage": 3.8,
+      "color": "#59A14F",
+      "shareValue": 125400000000
+    },
+    {
+      "name": "Other Institutional Investors",
+      "percentage": 15,
+      "color": "#EDC948",
+      "shareValue": 495000000000
+    },
+    {
+      "name": "Insiders & Executives",
+      "percentage": 0.7,
+      "color": "#B07AA1",
+      "shareValue": 23100000000
+    }
+  ],
+  "valuation": 3300000000000,
+  "stockUnitValue": 222,
+  "notes": "Updated after web verification: Tim Cook moved to Executive Chairman and John Ternus became CEO in April 2026 (Apple Newsroom). Ownership/valuation figures remain estimates extrapolated from late-2025 13F institutional filing trends (Vanguard ~9.6%, BlackRock ~7.7%) since exact 2026 percentages were not independently verified for this record.",
+  "moatScore": 9,
+  "moatLabel": "Fortress (Tested)",
+  "moatNote": "Leadership transition (Cook to Ternus) tests continuity of strategic moat.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 20,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Share Buybacks",
+      "percentage": 45,
+      "color": "#F28E2B"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 12,
+      "color": "#59A14F"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 18,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 5,
+      "color": "#EDC948"
+    }
+  ]
+}

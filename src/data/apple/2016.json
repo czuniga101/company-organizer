@@ -1,0 +1,107 @@
+{
+  "company": "Apple Inc.",
+  "year": 2016,
+  "ceo": {
+    "name": "Timothy D. Cook",
+    "role": "Chief Executive Officer"
+  },
+  "board": [
+    {
+      "name": "Arthur D. Levinson",
+      "role": "Chairman of the Board"
+    },
+    {
+      "name": "Timothy D. Cook",
+      "role": "Director & CEO"
+    },
+    {
+      "name": "James A. Bell",
+      "role": "Independent Director"
+    },
+    {
+      "name": "Al Gore",
+      "role": "Independent Director"
+    },
+    {
+      "name": "Robert A. Iger",
+      "role": "Independent Director"
+    },
+    {
+      "name": "Andrea Jung",
+      "role": "Independent Director"
+    },
+    {
+      "name": "Ronald D. Sugar",
+      "role": "Independent Director"
+    },
+    {
+      "name": "Susan L. Wagner",
+      "role": "Independent Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Vanguard Group",
+      "percentage": 6.5,
+      "color": "#E63946",
+      "shareValue": 39000000000
+    },
+    {
+      "name": "BlackRock",
+      "percentage": 5.5,
+      "color": "#457B9D",
+      "shareValue": 33000000000
+    },
+    {
+      "name": "State Street",
+      "percentage": 4,
+      "color": "#2A9D8F",
+      "shareValue": 24000000000
+    },
+    {
+      "name": "FMR (Fidelity)",
+      "percentage": 2.5,
+      "color": "#F4A261",
+      "shareValue": 15000000000
+    },
+    {
+      "name": "Public & Other Shareholders",
+      "percentage": 81.5,
+      "color": "#8D99AE",
+      "shareValue": 489000000000
+    }
+  ],
+  "valuation": 600000000000,
+  "stockUnitValue": 115.82,
+  "notes": "Year-end 2016 market cap ~$600B; share price unadjusted for 2020 split. Ownership percentages are estimates based on 13F institutional filings.",
+  "moatScore": 9,
+  "moatLabel": "Dominant",
+  "moatNote": "iPhone growth slows but installed base monetization (services) accelerates.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 15,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Share Buybacks",
+      "percentage": 40,
+      "color": "#F28E2B"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 20,
+      "color": "#59A14F"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 20,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 5,
+      "color": "#EDC948"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "company": "Apple Computer, Inc.",
+  "year": 2004,
+  "ceo": {
+    "name": "Steve Jobs",
+    "role": "Chief Executive Officer"
+  },
+  "board": [
+    {
+      "name": "Steve Jobs",
+      "role": "CEO & Director"
+    },
+    {
+      "name": "William V. Campbell",
+      "role": "Director"
+    },
+    {
+      "name": "Millard S. Drexler",
+      "role": "Director"
+    },
+    {
+      "name": "Albert A. Gore, Jr.",
+      "role": "Director"
+    },
+    {
+      "name": "Arthur D. Levinson",
+      "role": "Director"
+    },
+    {
+      "name": "Jerome B. York",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Steve Jobs",
+      "percentage": 0.8,
+      "color": "#4E79A7",
+      "shareValue": 192000000
+    },
+    {
+      "name": "Fidelity Investments (FMR)",
+      "percentage": 12,
+      "color": "#F28E2B",
+      "shareValue": 2880000000
+    },
+    {
+      "name": "State Street Global Advisors",
+      "percentage": 5,
+      "color": "#59A14F",
+      "shareValue": 1200000000
+    },
+    {
+      "name": "The Vanguard Group",
+      "percentage": 5,
+      "color": "#E15759",
+      "shareValue": 1200000000
+    },
+    {
+      "name": "Barclays Global Investors",
+      "percentage": 4,
+      "color": "#EDC948",
+      "shareValue": 960000000
+    },
+    {
+      "name": "Other Institutional Investors",
+      "percentage": 35.2,
+      "color": "#B07AA1",
+      "shareValue": 8448000000
+    },
+    {
+      "name": "Public Shareholders",
+      "percentage": 38,
+      "color": "#76B7B2",
+      "shareValue": 9120000000
+    }
+  ],
+  "valuation": 24000000000,
+  "stockUnitValue": 64.4,
+  "notes": "iPod-driven surge lifted FY2004 price to ~$64/share (pre-Feb 2005 split). Market cap ~$24B. Jobs' percentage falls slightly as shares outstanding grew. Ownership percentages are estimates.",
+  "moatScore": 6,
+  "moatLabel": "Building",
+  "moatNote": "iPod dominates portable music; switching costs via iTunes library rising.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 30,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 25,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 45,
+      "color": "#EDC948"
+    }
+  ]
+}

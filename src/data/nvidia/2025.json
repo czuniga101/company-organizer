@@ -1,0 +1,104 @@
+{
+  "company": "NVIDIA Corporation",
+  "ticker": "NVDA",
+  "year": 2025,
+  "ceo": {
+    "name": "Jensen Huang",
+    "role": "President & CEO"
+  },
+  "board": [
+    {
+      "name": "Jensen Huang",
+      "role": "President & CEO"
+    },
+    {
+      "name": "Mark Stevens",
+      "role": "Director"
+    },
+    {
+      "name": "Tench Coxe",
+      "role": "Director"
+    },
+    {
+      "name": "Persis Drell",
+      "role": "Director"
+    },
+    {
+      "name": "Dawn Hudson",
+      "role": "Director"
+    },
+    {
+      "name": "Mark Perry",
+      "role": "Director"
+    },
+    {
+      "name": "John O. Dabiri",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Jensen Huang",
+      "percentage": 3.5,
+      "color": "#E8734A",
+      "shareValue": 122500000000
+    },
+    {
+      "name": "Vanguard Group",
+      "percentage": 8.7,
+      "color": "#4F86C6",
+      "shareValue": 304500000000
+    },
+    {
+      "name": "BlackRock",
+      "percentage": 7.4,
+      "color": "#6ABF69",
+      "shareValue": 259000000000
+    },
+    {
+      "name": "Other Institutions",
+      "percentage": 50.4,
+      "color": "#F5C842",
+      "shareValue": 1764000000000
+    },
+    {
+      "name": "Public Float",
+      "percentage": 30,
+      "color": "#B0B0B0",
+      "shareValue": 1050000000000
+    }
+  ],
+  "valuation": 3500000000000,
+  "stockUnitValue": 134.29,
+  "notes": "NVIDIA's Blackwell-architecture GPUs ramped through 2025 amid continued hyperscaler AI capex growth, even as export restrictions on China and supply-chain constraints created periodic volatility.",
+  "moatScore": 9,
+  "moatLabel": "Dominant",
+  "moatNote": "Continued near-monopoly position in AI training/inference silicon, though geopolitical export controls and hyperscaler custom-silicon efforts represent emerging long-term threats.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 25,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 25,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 10,
+      "color": "#EDC948"
+    },
+    {
+      "name": "Share Buybacks",
+      "percentage": 38,
+      "color": "#F28E2B"
+    },
+    {
+      "name": "Dividends",
+      "percentage": 2,
+      "color": "#59A14F"
+    }
+  ]
+}

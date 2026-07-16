@@ -1,0 +1,72 @@
+{
+  "company": "NVIDIA Corporation",
+  "ticker": "NVDA",
+  "year": 1993,
+  "ceo": {
+    "name": "Jensen Huang",
+    "role": "Co-Founder / President & CEO"
+  },
+  "board": [
+    {
+      "name": "Jensen Huang",
+      "role": "President & CEO"
+    },
+    {
+      "name": "Chris Malachowsky",
+      "role": "Co-Founder"
+    },
+    {
+      "name": "Curtis Priem",
+      "role": "Co-Founder"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Jensen Huang",
+      "percentage": 35,
+      "color": "#E8734A",
+      "shareValue": 350000
+    },
+    {
+      "name": "Chris Malachowsky",
+      "percentage": 25,
+      "color": "#4F86C6",
+      "shareValue": 250000
+    },
+    {
+      "name": "Curtis Priem",
+      "percentage": 25,
+      "color": "#6ABF69",
+      "shareValue": 250000
+    },
+    {
+      "name": "Early Investors",
+      "percentage": 15,
+      "color": "#B0B0B0",
+      "shareValue": 150000
+    }
+  ],
+  "valuation": 1000000,
+  "stockUnitValue": null,
+  "notes": "NVIDIA founded April 5, 1993 by Jensen Huang, Chris Malachowsky, and Curtis Priem, reportedly agreed upon at a Denny's diner in East San Jose, to build chips for accelerated computing and 3D graphics.",
+  "moatScore": 1,
+  "moatLabel": "Pre-Product",
+  "moatNote": "Startup founded to build graphics accelerator chips in a crowded, commodity-prone market.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 70,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 20,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 10,
+      "color": "#EDC948"
+    }
+  ]
+}

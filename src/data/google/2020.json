@@ -1,0 +1,77 @@
+{
+  "company": "Alphabet Inc.",
+  "ticker": "GOOGL",
+  "year": 2020,
+  "ceo": {
+    "name": "Sundar Pichai",
+    "role": "CEO of Alphabet & Google"
+  },
+  "board": [
+    {
+      "name": "Sundar Pichai",
+      "role": "CEO, Alphabet & Google"
+    },
+    {
+      "name": "John Hennessy",
+      "role": "Chairman"
+    },
+    {
+      "name": "Ruth Porat",
+      "role": "CFO"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Larry Page",
+      "percentage": 11.5,
+      "color": "#E8734A",
+      "shareValue": 115000000000
+    },
+    {
+      "name": "Sergey Brin",
+      "percentage": 11.5,
+      "color": "#4F86C6",
+      "shareValue": 115000000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 53,
+      "color": "#6ABF69",
+      "shareValue": 530000000000
+    },
+    {
+      "name": "Public Float",
+      "percentage": 24,
+      "color": "#B0B0B0",
+      "shareValue": 240000000000
+    }
+  ],
+  "valuation": 1000000000000,
+  "stockUnitValue": 1450.0,
+  "notes": "Alphabet's Class A shares closed at $1,450.16 in January 2020, pushing market capitalization to $1 trillion for the first time, the fourth US tech company to reach that milestone.",
+  "moatScore": 9,
+  "moatLabel": "Dominant",
+  "moatNote": "Search, YouTube, Android, and the emerging Google Cloud business combined into a broad, mutually reinforcing moat, pushing market cap past $1 trillion.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 28,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 28,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 12,
+      "color": "#EDC948"
+    },
+    {
+      "name": "Share Buybacks",
+      "percentage": 32,
+      "color": "#F28E2B"
+    }
+  ]
+}

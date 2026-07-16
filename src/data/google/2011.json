@@ -1,0 +1,77 @@
+{
+  "company": "Google Inc.",
+  "ticker": "GOOG",
+  "year": 2011,
+  "ceo": {
+    "name": "Larry Page",
+    "role": "Co-Founder & CEO"
+  },
+  "board": [
+    {
+      "name": "Larry Page",
+      "role": "Co-Founder & CEO"
+    },
+    {
+      "name": "Eric Schmidt",
+      "role": "Executive Chairman"
+    },
+    {
+      "name": "Sergey Brin",
+      "role": "Co-Founder / Director of Special Projects"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Larry Page",
+      "percentage": 16,
+      "color": "#E8734A",
+      "shareValue": 30400000000
+    },
+    {
+      "name": "Sergey Brin",
+      "percentage": 16,
+      "color": "#4F86C6",
+      "shareValue": 30400000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 45,
+      "color": "#6ABF69",
+      "shareValue": 85500000000
+    },
+    {
+      "name": "Public Float",
+      "percentage": 23,
+      "color": "#B0B0B0",
+      "shareValue": 43700000000
+    }
+  ],
+  "valuation": 190000000000,
+  "stockUnitValue": 300.0,
+  "notes": "Larry Page returned to the CEO role in April 2011, with Eric Schmidt transitioning to Executive Chairman; Google+ launched later that year.",
+  "moatScore": 8,
+  "moatLabel": "Strong",
+  "moatNote": "Search dominance, Android's rapid smartphone-market growth, and AdWords/AdSense advertising scale created a very durable, multi-pronged moat.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 40,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 30,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 15,
+      "color": "#EDC948"
+    },
+    {
+      "name": "Acquisitions",
+      "percentage": 15,
+      "color": "#E15759"
+    }
+  ]
+}

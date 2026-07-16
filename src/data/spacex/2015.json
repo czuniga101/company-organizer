@@ -1,0 +1,77 @@
+{
+  "company": "Space Exploration Technologies Corp.",
+  "year": 2015,
+  "ceo": {
+    "name": "Elon Musk",
+    "role": "CEO / CTO"
+  },
+  "board": [
+    {
+      "name": "Elon Musk",
+      "role": "CEO"
+    },
+    {
+      "name": "Gwynne Shotwell",
+      "role": "President & COO"
+    },
+    {
+      "name": "Luke Nosek",
+      "role": "Director (Founders Fund)"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Elon Musk",
+      "percentage": 54,
+      "color": "#E8734A",
+      "shareValue": 6480000000
+    },
+    {
+      "name": "Founders Fund",
+      "percentage": 12,
+      "color": "#4F86C6",
+      "shareValue": 1440000000
+    },
+    {
+      "name": "Google (Alphabet)",
+      "percentage": 8,
+      "color": "#6ABF69",
+      "shareValue": 960000000
+    },
+    {
+      "name": "Fidelity",
+      "percentage": 8,
+      "color": "#F5C842",
+      "shareValue": 960000000
+    },
+    {
+      "name": "Other Investors",
+      "percentage": 18,
+      "color": "#B0B0B0",
+      "shareValue": 2160000000
+    }
+  ],
+  "valuation": 12000000000,
+  "stockUnitValue": null,
+  "notes": "December 21, 2015: SpaceX achieved the first successful landing of an orbital-class rocket first stage (Falcon 9 Orbcomm-2 mission), a watershed moment for reusable rocketry. Google and Fidelity invested $1B in January 2015 for ~8.33% combined.",
+  "moatScore": 7,
+  "moatLabel": "Differentiated",
+  "moatNote": "First orbital-class booster landing began the reusability cost advantage that no competitor has yet matched at scale.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 40,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 50,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 10,
+      "color": "#EDC948"
+    }
+  ]
+}

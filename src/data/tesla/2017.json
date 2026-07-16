@@ -1,0 +1,99 @@
+{
+  "company": "Tesla, Inc.",
+  "year": 2017,
+  "ceo": {
+    "name": "Elon Musk",
+    "role": "CEO"
+  },
+  "board": [
+    {
+      "name": "Elon Musk",
+      "role": "CEO & Chairman"
+    },
+    {
+      "name": "Antonio Gracias",
+      "role": "Director"
+    },
+    {
+      "name": "Brad Buss",
+      "role": "Director"
+    },
+    {
+      "name": "Robyn Denholm",
+      "role": "Director"
+    },
+    {
+      "name": "Kimbal Musk",
+      "role": "Director"
+    },
+    {
+      "name": "James Murdoch",
+      "role": "Director"
+    },
+    {
+      "name": "Linda Johnson Rice",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Elon Musk",
+      "percentage": 21,
+      "color": "#E8734A",
+      "shareValue": 11550000000
+    },
+    {
+      "name": "The Vanguard Group",
+      "percentage": 7,
+      "color": "#4F86C6",
+      "shareValue": 3850000000
+    },
+    {
+      "name": "BlackRock",
+      "percentage": 5,
+      "color": "#E15759",
+      "shareValue": 2750000000
+    },
+    {
+      "name": "Public / Retail Shareholders",
+      "percentage": 42,
+      "color": "#6ABF69",
+      "shareValue": 23100000000
+    },
+    {
+      "name": "Other Institutional",
+      "percentage": 18,
+      "color": "#F5C842",
+      "shareValue": 9900000000
+    },
+    {
+      "name": "Employees / Insiders",
+      "percentage": 7,
+      "color": "#B0B0B0",
+      "shareValue": 3850000000
+    }
+  ],
+  "valuation": 55000000000,
+  "stockUnitValue": 311.0,
+  "notes": "Renamed from Tesla Motors to Tesla, Inc. in February 2017. Model 3 entered production July 2017 but ramp severely delayed; Musk later called it \"production hell.\"",
+  "moatScore": 6,
+  "moatLabel": "Tested",
+  "moatNote": "Model 3 production hell revealed manufacturing weakness; moat narrative questioned.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 28,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 62,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 10,
+      "color": "#EDC948"
+    }
+  ]
+}

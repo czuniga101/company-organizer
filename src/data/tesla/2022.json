@@ -1,0 +1,91 @@
+{
+  "company": "Tesla, Inc.",
+  "year": 2022,
+  "ceo": {
+    "name": "Elon Musk",
+    "role": "CEO"
+  },
+  "board": [
+    {
+      "name": "Robyn Denholm",
+      "role": "Chair"
+    },
+    {
+      "name": "Elon Musk",
+      "role": "CEO & Director"
+    },
+    {
+      "name": "Kimbal Musk",
+      "role": "Director"
+    },
+    {
+      "name": "Kathleen Wilson-Thompson",
+      "role": "Director"
+    },
+    {
+      "name": "James Murdoch",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Elon Musk",
+      "percentage": 14,
+      "color": "#E8734A",
+      "shareValue": 47600000000
+    },
+    {
+      "name": "The Vanguard Group",
+      "percentage": 7,
+      "color": "#4F86C6",
+      "shareValue": 23800000000
+    },
+    {
+      "name": "BlackRock",
+      "percentage": 5,
+      "color": "#E15759",
+      "shareValue": 17000000000
+    },
+    {
+      "name": "Public / Retail Shareholders",
+      "percentage": 48,
+      "color": "#6ABF69",
+      "shareValue": 163200000000
+    },
+    {
+      "name": "Other Institutional",
+      "percentage": 19,
+      "color": "#F5C842",
+      "shareValue": 64600000000
+    },
+    {
+      "name": "Employees / Insiders",
+      "percentage": 7,
+      "color": "#B0B0B0",
+      "shareValue": 23800000000
+    }
+  ],
+  "valuation": 340000000000,
+  "stockUnitValue": 123.0,
+  "notes": "Stock crashed ~65% in 2022. Musk sold ~$23B of Tesla shares to fund Twitter acquisition. Berlin and Austin Gigafactories opened. Price cuts began to stimulate demand.",
+  "moatScore": 7,
+  "moatLabel": "Tested",
+  "moatNote": "Price cuts and margin pressure raised questions about long-term pricing power; Twitter distraction hurt brand.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 18,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 67,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 15,
+      "color": "#EDC948"
+    }
+  ]
+}

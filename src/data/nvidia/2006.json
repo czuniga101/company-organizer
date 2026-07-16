@@ -1,0 +1,75 @@
+{
+  "company": "NVIDIA Corporation",
+  "ticker": "NVDA",
+  "year": 2006,
+  "ceo": {
+    "name": "Jensen Huang",
+    "role": "President & CEO"
+  },
+  "board": [
+    {
+      "name": "Jensen Huang",
+      "role": "President & CEO"
+    },
+    {
+      "name": "Mark Stevens",
+      "role": "Director"
+    },
+    {
+      "name": "A. Brooke Seawell",
+      "role": "Director"
+    },
+    {
+      "name": "James Gaither",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Jensen Huang",
+      "percentage": 8,
+      "color": "#E8734A",
+      "shareValue": 720000000
+    },
+    {
+      "name": "Institutional Investors",
+      "percentage": 62,
+      "color": "#4F86C6",
+      "shareValue": 5580000000
+    },
+    {
+      "name": "Public Float",
+      "percentage": 30,
+      "color": "#B0B0B0",
+      "shareValue": 2700000000
+    }
+  ],
+  "valuation": 9000000000,
+  "stockUnitValue": 27.5,
+  "notes": "NVIDIA launched CUDA in 2006, opening the GPU's parallel-processing power to general-purpose computing \u2014 widely viewed as the foundation of NVIDIA's later AI dominance.",
+  "moatScore": 5,
+  "moatLabel": "Building",
+  "moatNote": "CUDA opened NVIDIA's hardware to general-purpose programming, planting the seed of a software/hardware moat competitors lacked.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 50,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 20,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 20,
+      "color": "#EDC948"
+    },
+    {
+      "name": "Share Buybacks",
+      "percentage": 10,
+      "color": "#F28E2B"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "company": "Apple Computer, Inc.",
+  "year": 1979,
+  "ceo": {
+    "name": "Michael Scott",
+    "role": "President & CEO"
+  },
+  "board": [
+    {
+      "name": "Mike Markkula",
+      "role": "Chairman"
+    },
+    {
+      "name": "Steve Jobs",
+      "role": "Co-founder / Vice President"
+    },
+    {
+      "name": "Michael Scott",
+      "role": "President & CEO"
+    },
+    {
+      "name": "Arthur Rock",
+      "role": "Director / Investor (Venrock)"
+    },
+    {
+      "name": "Henry Singleton",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Steve Jobs",
+      "percentage": 28,
+      "color": "#4E79A7",
+      "shareValue": 28000000
+    },
+    {
+      "name": "Steve Wozniak",
+      "percentage": 23,
+      "color": "#F28E2B",
+      "shareValue": 23000000
+    },
+    {
+      "name": "Mike Markkula",
+      "percentage": 22,
+      "color": "#E15759",
+      "shareValue": 22000000
+    },
+    {
+      "name": "Michael Scott",
+      "percentage": 7,
+      "color": "#76B7B2",
+      "shareValue": 7000000
+    },
+    {
+      "name": "Venrock / Arthur Rock",
+      "percentage": 12,
+      "color": "#B07AA1",
+      "shareValue": 12000000
+    },
+    {
+      "name": "Other Early Investors",
+      "percentage": 8,
+      "color": "#FF9DA7",
+      "shareValue": 8000000
+    }
+  ],
+  "valuation": 100000000,
+  "stockUnitValue": 2,
+  "notes": "A 1978\u201379 private financing round (Venrock, Arthur Rock, Xerox and others) diluted founders. Valuation reportedly approached ~$100M pre-IPO. Percentages and per-share value are historical estimates.",
+  "moatScore": 4,
+  "moatLabel": "Emerging",
+  "moatNote": "VisiCalc (1979) makes Apple II a business tool, first real lock-in.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 35,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 25,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 40,
+      "color": "#EDC948"
+    }
+  ]
+}

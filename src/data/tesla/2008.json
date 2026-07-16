@@ -1,0 +1,75 @@
+{
+  "company": "Tesla Motors, Inc.",
+  "year": 2008,
+  "ceo": {
+    "name": "Elon Musk",
+    "role": "CEO"
+  },
+  "board": [
+    {
+      "name": "Elon Musk",
+      "role": "CEO & Chairman"
+    },
+    {
+      "name": "Antonio Gracias",
+      "role": "Director"
+    },
+    {
+      "name": "Ira Ehrenpreis",
+      "role": "Director"
+    },
+    {
+      "name": "Brad Buss",
+      "role": "Director"
+    }
+  ],
+  "ownership": [
+    {
+      "name": "Elon Musk",
+      "percentage": 28,
+      "color": "#E8734A",
+      "shareValue": 14000000
+    },
+    {
+      "name": "VCs (DFJ / Valor / Technology Partners)",
+      "percentage": 45,
+      "color": "#4F86C6",
+      "shareValue": 22500000
+    },
+    {
+      "name": "Founders / Employees",
+      "percentage": 17,
+      "color": "#6ABF69",
+      "shareValue": 8500000
+    },
+    {
+      "name": "Other",
+      "percentage": 10,
+      "color": "#B0B0B0",
+      "shareValue": 5000000
+    }
+  ],
+  "valuation": 50000000,
+  "stockUnitValue": null,
+  "notes": "Near-bankruptcy during global financial crisis; Musk put in $40M of personal funds in the final hours of 2008 to save the company. First Roadsters shipped Feb 2008.",
+  "moatScore": 2,
+  "moatLabel": "Near-Failure",
+  "moatNote": "Nearly bankrupt; Musk's personal injection saved company. Roadster shipping but minimal scale.",
+  "capitalAllocation": [
+    {
+      "name": "R&D",
+      "percentage": 50,
+      "color": "#4E79A7"
+    },
+    {
+      "name": "Capital Expenditures",
+      "percentage": 25,
+      "color": "#76B7B2"
+    },
+    {
+      "name": "Cash Reserves Build",
+      "percentage": 25,
+      "color": "#EDC948"
+    }
+  ]
+}

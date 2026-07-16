@@ -1,0 +1,28 @@
+import json
+
+MENLO_PARK_HQ = {"name": "Meta Headquarters (1 Meta Way, formerly Sun Microsystems campus)", "city": "Menlo Park, CA", "country": "USA", "lat": 37.4845, "lng": -122.1477, "type": "headquarters", "note": "Meta's headquarters campus, acquired from Sun Microsystems in 2011, houses executive leadership, engineering, and Reality Labs."}
+DUBLIN_HQ = {"name": "Meta International Headquarters (EMEA)", "city": "Dublin", "country": "Ireland", "lat": 53.3498, "lng": -6.2603, "type": "regional-hq", "note": "Meta's international headquarters, coordinating Europe/Middle East/Africa operations."}
+US_DATA_CENTERS = {"name": "US Data Center Network", "city": "Multiple US locations", "country": "USA", "lat": 41.8781, "lng": -93.0977, "type": "manufacturing", "note": "Meta's growing network of hyperscale data centers (21+ facilities as of 2023) supporting Facebook, Instagram, WhatsApp, and AI infrastructure."}
+
+YEAR_LOCATIONS = {
+  2004: [{"name": "TheFacebook Founding Office (Harvard dorm / early Palo Alto office)", "city": "Cambridge, MA / Palo Alto, CA", "country": "USA", "lat": 42.3736, "lng": -71.1097, "type": "headquarters", "note": "Facebook began in Zuckerberg's Harvard dorm room before relocating to Palo Alto, CA later in 2004."}],
+  2012: [MENLO_PARK_HQ],
+  2014: [MENLO_PARK_HQ, DUBLIN_HQ],
+  2018: [MENLO_PARK_HQ, DUBLIN_HQ, US_DATA_CENTERS],
+  2021: [MENLO_PARK_HQ, DUBLIN_HQ, US_DATA_CENTERS],
+  2022: [MENLO_PARK_HQ, DUBLIN_HQ, US_DATA_CENTERS],
+  2024: [MENLO_PARK_HQ, DUBLIN_HQ, US_DATA_CENTERS],
+  2025: [MENLO_PARK_HQ, DUBLIN_HQ, US_DATA_CENTERS],
+  2026: [MENLO_PARK_HQ, DUBLIN_HQ, US_DATA_CENTERS],
+}
+
+body = ",\n".join(f'  {y}: {json.dumps(locs)}' for y, locs in sorted(YEAR_LOCATIONS.items()))
+ts = f'''import type {{ OperationLocation }} from "../../types";
+
+export const metaOperationsLocations: Record<number, OperationLocation[]> = {{
+{body}
+}};
+'''
+with open("src/data/meta/operations.ts", "w") as f:
+    f.write(ts)
+print("Done:", len(YEAR_LOCATIONS), "years")
