@@ -32,10 +32,10 @@ export default function CapitalAllocationChart({ items, year }: Props) {
             ))}
           </Pie>
           <Tooltip
-            formatter={(val: number, _: string, entry: { payload: CapitalAllocationItem }) => [
+            formatter={((val: number, _: string, entry: { payload: CapitalAllocationItem }) => [
               `${val}%`,
               entry.payload.name,
-            ]}
+            ]) as (val: number, name: string, entry: unknown) => [string, string]}
             contentStyle={{ background: "#1a1a2e", border: "1px solid #333", borderRadius: 8, color: "#fff" }}
           />
         </PieChart>

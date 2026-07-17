@@ -37,9 +37,8 @@ export default function DonutChart({ stakes, totalValue, stockUnitValue, company
             ))}
           </Pie>
           <Tooltip
-            formatter={(val: number, _: string, entry: { payload: OwnershipStake }) =>
-              [`${val}% — ${fmt(entry.payload.shareValue)}`, entry.payload.name]
-            }
+            formatter={((val: number, _: string, entry: { payload: OwnershipStake }) =>
+              [`${val}% — ${fmt(entry.payload.shareValue)}`, entry.payload.name]) as (val: number, name: string, entry: unknown) => [string, string]}
             contentStyle={{ background: "#1a1a2e", border: "1px solid #333", borderRadius: 8, color: "#fff" }}
           />
         </PieChart>
