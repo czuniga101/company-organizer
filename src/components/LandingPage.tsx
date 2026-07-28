@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from "react";
-import { getVoteCount } from "../voteStorage";
+import { getUserVote, getVoteCount, setUserVote } from "../voteStorage";
 
 interface Props {
   onSelectApple: () => void;
@@ -34,6 +34,13 @@ export default function LandingPage({ onSelectApple, onSelectTesla, onSelectToyo
   useEffect(() => {
     setVoteCounts(Object.fromEntries(companies.map((c) => [c.key, getVoteCount(c.key)])));
   }, [companies]);
+
+  const vote = (companyKey: string, direction: 1 | -1) => {
+    const current = getUserVote(companyKey);
+    const next = current === direction ? 0 : direction;
+    setUserVote(companyKey, next);
+    setVoteCounts((prev) => ({ ...prev, [companyKey]: 1 + next }));
+  };
 
   const matches = query.trim()
     ? companies.filter((c) => c.name.toLowerCase().includes(query.trim().toLowerCase()))
@@ -112,7 +119,11 @@ export default function LandingPage({ onSelectApple, onSelectTesla, onSelectToyo
           <button style={companiesBtn}>Tech Sector</button>
           {companies.map((c) => (
             <div key={c.key} style={{ display: "flex", alignItems: "center", gap: 12 }}>
-              <span style={voteBadge}>{voteCounts[c.key] ?? 1}</span>
+              <div style={voteWidget}>
+                <span onClick={() => vote(c.key, 1)} style={voteArrow}>⇧</span>
+                <span style={voteCount}>{voteCounts[c.key] ?? 1}</span>
+                <span onClick={() => vote(c.key, -1)} style={voteArrow}>⇩</span>
+              </div>
               <button onClick={c.onSelect} style={c.style}>{c.name}</button>
             </div>
           ))}
@@ -167,16 +178,29 @@ const searchOption: React.CSSProperties = {
   cursor: "pointer",
 };
 
-const voteBadge: React.CSSProperties = {
-  minWidth: 28,
+const voteWidget: React.CSSProperties = {
+  display: "flex",
+  alignItems: "center",
+  gap: 8,
+  background: "linear-gradient(135deg, #6C8EF5, #8C6CF5)",
+  borderRadius: 20,
+  padding: "6px 14px",
+};
+
+const voteArrow: React.CSSProperties = {
+  fontSize: 14,
+  color: "#fff",
+  cursor: "pointer",
+  userSelect: "none",
+  lineHeight: 1,
+};
+
+const voteCount: React.CSSProperties = {
+  minWidth: 16,
   textAlign: "center",
   fontSize: 13,
   fontWeight: 700,
-  color: "#8C6CF5",
-  background: "#13131f",
-  border: "1px solid #333",
-  borderRadius: 20,
-  padding: "4px 10px",
+  color: "#fff",
 };
 
 const companiesBtn: React.CSSProperties = {
