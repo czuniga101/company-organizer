@@ -339,15 +339,15 @@ type View = "landing" | "apple" | "tesla" | "toyota" | "spacex" | "nvidia" | "am
 export default function App() {
   const [view, setView] = useState<View>("landing");
 
-  if (view === "apple") return <CompanyApp data={APPLE} onBack={() => setView("landing")} />;
-  if (view === "tesla") return <CompanyApp data={TESLA} onBack={() => setView("landing")} />;
-  if (view === "toyota") return <CompanyApp data={TOYOTA} onBack={() => setView("landing")} />;
-  if (view === "spacex") return <CompanyApp data={SPACEX} onBack={() => setView("landing")} />;
-  if (view === "nvidia") return <CompanyApp data={NVIDIA} onBack={() => setView("landing")} />;
-  if (view === "amazon") return <CompanyApp data={AMAZON} onBack={() => setView("landing")} />;
-  if (view === "meta") return <CompanyApp data={META} onBack={() => setView("landing")} />;
-  if (view === "microsoft") return <CompanyApp data={MICROSOFT} onBack={() => setView("landing")} />;
-  if (view === "google") return <CompanyApp data={GOOGLE} onBack={() => setView("landing")} />;
+  if (view === "apple") return <CompanyApp data={APPLE} companyKey="apple" onBack={() => setView("landing")} />;
+  if (view === "tesla") return <CompanyApp data={TESLA} companyKey="tesla" onBack={() => setView("landing")} />;
+  if (view === "toyota") return <CompanyApp data={TOYOTA} companyKey="toyota" onBack={() => setView("landing")} />;
+  if (view === "spacex") return <CompanyApp data={SPACEX} companyKey="spacex" onBack={() => setView("landing")} />;
+  if (view === "nvidia") return <CompanyApp data={NVIDIA} companyKey="nvidia" onBack={() => setView("landing")} />;
+  if (view === "amazon") return <CompanyApp data={AMAZON} companyKey="amazon" onBack={() => setView("landing")} />;
+  if (view === "meta") return <CompanyApp data={META} companyKey="meta" onBack={() => setView("landing")} />;
+  if (view === "microsoft") return <CompanyApp data={MICROSOFT} companyKey="microsoft" onBack={() => setView("landing")} />;
+  if (view === "google") return <CompanyApp data={GOOGLE} companyKey="google" onBack={() => setView("landing")} />;
   return (
     <LandingPage
       onSelectApple={() => setView("apple")}

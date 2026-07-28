@@ -1,4 +1,5 @@
-import { useMemo, useRef, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
+import { getVoteCount } from "../voteStorage";
 
 interface Props {
   onSelectApple: () => void;
@@ -18,16 +19,21 @@ export default function LandingPage({ onSelectApple, onSelectTesla, onSelectToyo
   const inputRef = useRef<HTMLInputElement>(null);
 
   const companies = useMemo(() => [
-    { name: "Apple", onSelect: onSelectApple },
-    { name: "Tesla", onSelect: onSelectTesla },
-    { name: "Toyota", onSelect: onSelectToyota },
-    { name: "SpaceX", onSelect: onSelectSpaceX },
-    { name: "NVIDIA", onSelect: onSelectNvidia },
-    { name: "Amazon", onSelect: onSelectAmazon },
-    { name: "Meta", onSelect: onSelectMeta },
-    { name: "Microsoft", onSelect: onSelectMicrosoft },
-    { name: "Google", onSelect: onSelectGoogle },
+    { key: "apple", name: "Apple", onSelect: onSelectApple, style: appleBtn },
+    { key: "tesla", name: "Tesla", onSelect: onSelectTesla, style: teslaBtn },
+    { key: "toyota", name: "Toyota", onSelect: onSelectToyota, style: toyotaBtn },
+    { key: "spacex", name: "SpaceX", onSelect: onSelectSpaceX, style: spacexBtn },
+    { key: "nvidia", name: "NVIDIA", onSelect: onSelectNvidia, style: nvidiaBtn },
+    { key: "amazon", name: "Amazon", onSelect: onSelectAmazon, style: amazonBtn },
+    { key: "meta", name: "Meta", onSelect: onSelectMeta, style: metaBtn },
+    { key: "microsoft", name: "Microsoft", onSelect: onSelectMicrosoft, style: microsoftBtn },
+    { key: "google", name: "Google", onSelect: onSelectGoogle, style: googleBtn },
   ], [onSelectApple, onSelectTesla, onSelectToyota, onSelectSpaceX, onSelectNvidia, onSelectAmazon, onSelectMeta, onSelectMicrosoft, onSelectGoogle]);
+
+  const [voteCounts, setVoteCounts] = useState<Record<string, number>>({});
+  useEffect(() => {
+    setVoteCounts(Object.fromEntries(companies.map((c) => [c.key, getVoteCount(c.key)])));
+  }, [companies]);
 
   const matches = query.trim()
     ? companies.filter((c) => c.name.toLowerCase().includes(query.trim().toLowerCase()))
@@ -104,15 +110,12 @@ export default function LandingPage({ onSelectApple, onSelectTesla, onSelectToyo
         {/* Middle */}
         <div style={{ flex: 1, display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", gap: 14 }}>
           <button style={companiesBtn}>Tech Sector</button>
-          <button onClick={onSelectApple} style={appleBtn}>Apple</button>
-          <button onClick={onSelectTesla} style={teslaBtn}>Tesla</button>
-          <button onClick={onSelectToyota} style={toyotaBtn}>Toyota</button>
-          <button onClick={onSelectSpaceX} style={spacexBtn}>SpaceX</button>
-          <button onClick={onSelectNvidia} style={nvidiaBtn}>NVIDIA</button>
-          <button onClick={onSelectAmazon} style={amazonBtn}>Amazon</button>
-          <button onClick={onSelectMeta} style={metaBtn}>Meta</button>
-          <button onClick={onSelectMicrosoft} style={microsoftBtn}>Microsoft</button>
-          <button onClick={onSelectGoogle} style={googleBtn}>Google</button>
+          {companies.map((c) => (
+            <div key={c.key} style={{ display: "flex", alignItems: "center", gap: 12 }}>
+              <span style={voteBadge}>{voteCounts[c.key] ?? 1}</span>
+              <button onClick={c.onSelect} style={c.style}>{c.name}</button>
+            </div>
+          ))}
         </div>
 
       </div>
@@ -162,6 +165,18 @@ const searchOption: React.CSSProperties = {
   fontSize: 13,
   color: "#ddd",
   cursor: "pointer",
+};
+
+const voteBadge: React.CSSProperties = {
+  minWidth: 28,
+  textAlign: "center",
+  fontSize: 13,
+  fontWeight: 700,
+  color: "#8C6CF5",
+  background: "#13131f",
+  border: "1px solid #333",
+  borderRadius: 20,
+  padding: "4px 10px",
 };
 
 const companiesBtn: React.CSSProperties = {

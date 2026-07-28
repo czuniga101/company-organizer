@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { getUserVote, setUserVote as persistUserVote } from "./voteStorage";
 import DonutChart from "./components/DonutChart";
 import BoardRow from "./components/BoardRow";
 import MoatChart from "./components/MoatChart";
@@ -50,6 +51,7 @@ const SECTION_META: Record<SectionKey, { title: string; intro: string }> = {
 
 interface Props {
   data: CompanyData;
+  companyKey: string;
   onBack: () => void;
 }
 
@@ -63,11 +65,18 @@ const fmt = (n: number) =>
 const label: React.CSSProperties = { fontSize: 11, textTransform: "uppercase", letterSpacing: "0.08em", color: "#666", marginBottom: 8 };
 const card: React.CSSProperties = { background: "#13131f", border: "1px solid #222", borderRadius: 16, padding: "20px 24px" };
 
-export default function CompanyApp({ data, onBack }: Props) {
+export default function CompanyApp({ data, companyKey, onBack }: Props) {
   const [idx, setIdx] = useState(0);
   const [view, setView] = useState<"timeline" | "sources" | "sec" | "products" | "forums" | "sectionSources">("timeline");
   const [activeSection, setActiveSection] = useState<SectionKey>("board");
-  const [userVote, setUserVote] = useState<0 | 1 | -1>(0);
+  const [userVote, setUserVoteState] = useState<0 | 1 | -1>(() => getUserVote(companyKey));
+  const setUserVote = (updater: (v: 0 | 1 | -1) => 0 | 1 | -1) => {
+    setUserVoteState((v) => {
+      const next = updater(v);
+      persistUserVote(companyKey, next);
+      return next;
+    });
+  };
   const voteCount = 1 + userVote;
   const orderedRecords = [...data.records].reverse();
   const record = orderedRecords[idx];
